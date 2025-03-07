@@ -55,11 +55,12 @@ def get_fox_articles():
     words = []  # Make them all LowerCase
     for word in tokens:
         words.append(word.lower())
-    downloaded = nltk.download('stopwords')  # Common used words (e.g. is, and, but, etc.)
-    if not downloaded:
-        print("ERROR: Could not download stopwords. QUITING")
-        return
-    stopwords = nltk.corpus.stopwords.words('english')
+    try:
+        stopwords = nltk.corpus.stopwords.words('english')
+    except Exception:
+        nltk.download('stopwords')
+        stopwords = nltk.corpus.stopwords.words('english')
+    stopwords.append('fox')
 
     words_new = []
     for word in words:  # Appending to words_new all words that are in words but not in stopwords

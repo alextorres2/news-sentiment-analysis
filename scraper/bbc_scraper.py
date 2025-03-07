@@ -43,11 +43,9 @@ def get_bbc_articles():
 
     sns.displot(df_textblob["Polarity"], height= 5, aspect=1.8)
     plt.xlabel("Sentence Polarity (Textblob)")
-    plt.show()
 
     sns.displot(df_textblob["Subjectivity"], height= 5, aspect=1.8)
     plt.xlabel("Sentence Subjectivity (Textblob)")
-    plt.show()
 
     # Word Cloud
     tokenizer = nltk.tokenize.RegexpTokenizer('\w+')    # Creating the tokenizer
@@ -55,11 +53,14 @@ def get_bbc_articles():
     words = []  # Make them all LowerCase
     for word in tokens:
         words.append(word.lower())
-    downloaded = nltk.download('stopwords')  # Common used words (e.g. is, and, but, etc.)
-    if not downloaded:
-        print("ERROR: Could not download stopwords. QUITING")
-        return
-    stopwords = nltk.corpus.stopwords.words('english')
+    try:
+        stopwords = nltk.corpus.stopwords.words('english')
+    except Exception:
+        nltk.download('stopwords')
+        stopwords = nltk.corpus.stopwords.words('english')
+    stopwords.append('hr')
+    stopwords.append('hrs')
+    stopwords.append('bbc')
 
     words_new = []
     for word in words:  # Appending to words_new all words that are in words but not in stopwords
@@ -70,7 +71,6 @@ def get_bbc_articles():
     df_freq_dist = pd.DataFrame(freq_dist.items(), columns=['word', 'frequency'])
     plt.subplots(figsize=(16,10))
     freq_dist.plot(20)
-    plt.show()
 
     res=' '.join([i for i in words_new if not i.isdigit()])
 
