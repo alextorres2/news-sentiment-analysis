@@ -1,1 +1,0 @@
-https://www.kaggle.com/code/prateekmaj21/web-scraping-a-news-article-and-sentiment-analysis
