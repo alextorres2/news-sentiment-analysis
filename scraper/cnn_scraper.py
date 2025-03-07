@@ -11,7 +11,7 @@ from wordcloud import WordCloud
 
 nlp = spacy.load('en_core_web_sm')
 
-def get_cnn_articles():
+def get_cnn_articles(show = False):
     url = "https://www.cnn.com"
     response = requests.get(url)
     response.encoding = 'utf-8'
@@ -60,7 +60,9 @@ def get_cnn_articles():
     except Exception:
         nltk.download('stopwords')
         stopwords = nltk.corpus.stopwords.words('english')
-    stopwords.append('cnn')
+    extra_wordstoignore = ['cnn', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0']
+    for word in extra_wordstoignore:
+        stopwords.append(word)
     words_new = []
     for word in words:  # Appending to words_new all words that are in words but not in stopwords
         if word not in stopwords:
@@ -83,17 +85,17 @@ def get_cnn_articles():
     ).generate(res)
 
     plt.imshow(wordcloud)
-    plt.title('NEWS ARTICLE (100 words)')
+    plt.title('CNN Website WordCloud')
     plt.axis('off')
-    plt.show()
+
+    if show:
+        plt.show()
 
     # Write data to CSV
     now = str(datetime.datetime.now())
     now = now.replace(" ", "_")
     df_textblob.to_csv(f"data/processed/cnn/TextBlob/textblob_{now}.csv")
     df_freq_dist.to_csv(f"data/processed/cnn/WordCloud/freq_dist_{now}.csv")
-
-    print()
 
     # TODO list:
     #   - Save data to csv file
@@ -104,6 +106,8 @@ def get_cnn_articles():
     #       - can create a word cloude
     #       - could have scroller to show word cloud changes over time
     #       - tokenize words -- count each word occurrence
+    #   - Analysis of group of words, not just individual keywords
+    #   - Look through html, find links, go to links, read those articles and do analysis on those
 
     # soup = BeautifulSoup(response.content, 'html.parser')
 
@@ -119,8 +123,3 @@ def get_cnn_articles():
     #     data.append({"title": title, "link": link})
 
     # return data
-
-# Test the scraper
-articles = get_cnn_articles()
-# for article in articles:
-#     print(article['title'], article['link'])

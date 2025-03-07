@@ -11,7 +11,7 @@ from wordcloud import WordCloud
 
 nlp = spacy.load('en_core_web_sm')
 
-def get_bbc_articles():
+def get_bbc_articles(show = False):
     url = "https://www.bbc.com/news"
     response = requests.get(url)
     response.encoding = 'utf-8'
@@ -58,10 +58,9 @@ def get_bbc_articles():
     except Exception:
         nltk.download('stopwords')
         stopwords = nltk.corpus.stopwords.words('english')
-    stopwords.append('hr')
-    stopwords.append('hrs')
-    stopwords.append('bbc')
-
+    extra_wordstoignore = ['hr', 'hrs', 'bbc', 'ago', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0']
+    for word in extra_wordstoignore:
+        stopwords.append(word)
     words_new = []
     for word in words:  # Appending to words_new all words that are in words but not in stopwords
         if word not in stopwords:
@@ -83,17 +82,17 @@ def get_bbc_articles():
     ).generate(res)
 
     plt.imshow(wordcloud)
-    plt.title('NEWS ARTICLE (100 words)')
+    plt.title('BBC Website WordCloud')
     plt.axis('off')
-    plt.show()
+    
+    if show:
+        plt.show()
 
     # Write data to CSV
     now = str(datetime.datetime.now())
     now = now.replace(" ", "_")
     df_textblob.to_csv(f"data/processed/bbc/TextBlob/textblob_{now}.csv")
     df_freq_dist.to_csv(f"data/processed/bbc/WordCloud/freq_dist_{now}.csv")
-
-    print()
 
     # TODO list:
     #   - Save data to csv file
@@ -119,8 +118,3 @@ def get_bbc_articles():
     #     data.append({"title": title, "link": link})
 
     # return data
-
-# Test the scraper
-articles = get_bbc_articles()
-# for article in articles:
-#     print(article['title'], article['link'])
