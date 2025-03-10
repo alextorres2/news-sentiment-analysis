@@ -1,0 +1,752 @@
+,Sentence,Polarity,Subjectivity
+0,Hundreds of thousands of homes are without power as Storm Alfred brings strong winds and heavy rains to Australia's central east coast.,0.07777777777777777,0.49444444444444446
+1,"Initially called Cyclone Alfred, the weather front was downgraded to a tropical low with winds set to reach up to 85km/h, less strong than first forecast.",0.10333333333333332,0.2866666666666666
+2,The BBC's Katy Watson reports from the Gold Coast.,0.0,0.0
+3,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+4,,0.0,0.0
+5,US Secretary of State Marco Rubio and Elon Musk have clashed with Poland's foreign minister over the use of the tech billionaire's Starlink satellite internet system in Ukraine.,-0.125,0.125
+6,"Musk said on X that Ukraine's ""entire front line"" would collapse if he turned the system off. Radoslaw Sikorski responded, saying his country paid for its use in Ukraine and a threat to shut it down would result in a search for another network.",-0.07777777777777779,0.4569444444444445
+7,"Rubio dismissed Sikorski's claims and told him to be grateful, while Musk called him a ""small man"".",-0.25,0.4
+8,"The exchange appeared to lead to Polish PM Donald Tusk calling on his country's allies to show respect for their weaker partners, rather than arrogance.",0.0,0.0
+9,Starlink's system is part of SpaceX's venture to provide high-speed internet to remote and underserved areas. It has been used extensively by the Ukrainian military.,-0.06666666666666667,0.2111111111111111
+10,"Sunday's exchange started when Musk posted that Starlink was the ""backbone of the Ukrainian army"" and that ""their entire front line would collapse if I turned it off"".",0.0,0.625
+11,"Sikorski then responded, saying that Poland was paying for the service.",0.0,0.0
+12,"""Starlinks for Ukraine are paid for by the Polish Digitization Ministry at the cost of about $50 million per year,"" Sikorski wrote. ""The ethics of threatening the victim of aggression apart, if SpaceX proves to be an unreliable provider we will be forced to look for other suppliers.""",-0.05000000000000002,0.15625
+13,"In response, Rubio said Sikorski was ""just making things up... no-one has made any threats about cutting Ukraine off from Starlink"".",-0.6,0.9
+14,"""And say thank you because without Starlink Ukraine would have lost this war long ago and Russians would be on the border with Poland right now,"" he added.",0.11785714285714285,0.46785714285714286
+15,"Musk later responded to Sikorski's post calling him a ""small man"".",-0.125,0.2
+16,"""Be quiet, small man. You pay a tiny fraction of the cost. And there is no substitute for Starlink,"" he wrote.",-0.08333333333333333,0.41111111111111115
+17,"On Monday morning Polish Prime Minister Tusk, without specifying who or what he was referring to, wrote on X: ""True leadership means respect for partners and allies.",0.35,0.65
+18,"""Even for the smaller and weaker ones. Never arrogance. Dear friends, think about it.""",0.0,0.5
+19,The Starlink terminals are key to Ukraine's army operations and have been used since the start of the Russian invasion in February 2022.,0.0,0.5
+20,"There are tens of thousands of terminals in the country, including up to 500 bought by the US Department of Defence in June 2023.",0.0,0.0
+21,"Starlink is one of, if not the most, reliable means of communication for Ukrainian troops.",0.5,0.5
+22,"It is used for reconnaissance drones, which stream troops real-time battlefield data that allows for quick reactions to attacks.",0.3333333333333333,0.5
+23,"This compensates for Ukraine's disadvantages in manpower, as the military does not need to keep large numbers of soldiers along the entire defensive line.",0.03809523809523809,0.3845238095238095
+24,Drone footage also helps to direct artillery fire and identify targets for kamikaze drones.,0.1,0.4
+25,"Requesting evacuation or providing the exact location of a target would also be much slower and more complicated without Starlink, as regular radio stations may be out of range, jammed or compromised.",0.05833333333333333,0.4378205128205128
+26,Additional reporting by Abdujalil Abdurasulov,0.0,0.0
+27,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+28,,0.0,0.0
+29,"The former Bank of England boss, Mark Carney, will be Canada's next prime minister, at least for now. He will need all his experience handling global economic crises as the country faces a trade war launched by US President Donald Trump.",-0.019999999999999997,0.12000000000000002
+30,Mark Carney was the first non-British person to become governor of the Bank of England in its more than 300-year history when he took the job in 2013.,0.375,0.41666666666666663
+31,"He had previously steered his home country through the Great Recession as the governor of the Bank of Canada, the country's central bank, before being poached for Britain's top banking job.",0.2833333333333333,0.41666666666666663
+32,"But unlike most PM-hopefuls, Carney has never held political office. Still, he won the contest to replace outgoing Prime Minister Justin Trudeau handily. Now, he must lead the country through one of its toughest challenges yet - an escalating trade war with its biggest trading partner, the United States.",0.3666666666666667,0.5
+33,"But holding on to the role of PM will be a fight in and of itself. Canada's next federal election is scheduled for this October, but many expect it to be called as early as this month.",0.19999999999999998,0.26666666666666666
+34,"Although Carney has travelled the globe, working for Goldman Sachs in places like New York, London and Tokyo, he was born in the remote northern town of Fort Smith, in the Northwest Territories.",0.018181818181818174,0.32727272727272727
+35,"The son of a high-school principal, he went to Harvard University on scholarship where he played the most Canadian of sports, ice hockey. In 1995, he earned his PhD in economics from Oxford University.",0.5,0.5
+36,"In 2003, he left the private sector to join the Bank of Canada as a deputy governor, then worked for the Department of Finance as senior associate deputy minister.",0.0,0.1875
+37,"In 2007, he was appointed governor of the Bank of Canada, shortly before global markets crashed, sending the country into a deep recession. His leadership at the central bank is widely praised for helping the country avoid the worst of the crisis.",-0.18333333333333335,0.39166666666666666
+38,"Although central bankers are notoriously circumspect, he was open about his intentions to keep interest rates low for at least a year, after dramatically cutting them.",-0.18,0.47000000000000003
+39,That move would be credited for helping businesses keep investing even when the markets sank. He would go on to take a similar approach when he was lured back to London - this time as the governor of the Bank of England.,0.0,0.2
+40,"In his time at the Bank's Threadneedle Street headquarters, he oversaw considerable changes in how the institution worked. At the start of his tenure, the Bank assumed responsibility for financial regulation after the abolition of the Financial Services Authority.",0.03333333333333333,0.15
+41,"He is credited with modernising the Bank, appearing much more frequently in the media than his predecessor.",0.3,0.4
+42,"In 2015, the Bank reduced the number of interest rate meetings from 12 to eight a year, and started publishing minutes alongside the announcement of interest rate decisions.",0.0,0.0
+43,"Interest rates were anchored at historic lows when he took over, but he introduced a policy of ""forward guidance"", where the Bank would try to further support the economy and encourage lending by pledging not to raise rates until unemployment fell below 7%.",0.0,0.25
+44,"Confusion about this policy saw an MP compare him to an ""unreliable boyfriend"", a monicker which stuck around long after the original controversy died down.",0.05648148148148147,0.47962962962962963
+45,"Unlike previous governors who generally kept a low profile, he made controversial interventions ahead of two big constitutional referendums.",0.08666666666666668,0.4033333333333333
+46,In 2014 he warned that an independent Scotland might have to surrender powers to the UK if it wanted to continue using the pound.,0.0,0.125
+47,"Before the Brexit referendum, he warned that a vote to leave the EU could spark a recession.",0.0,0.0
+48,"In the wake of the leave vote, after David Cameron resigned as prime minister and the pound plunged, he addressed the nation in a bid to reassure the country that the financial system would operate as normal.",0.075,0.32499999999999996
+49,"He described it as his ""toughest day"" on the job, but said the contingency plans the Bank put in place worked effectively.",0.6,0.8
+50,The Bank later cut interest rates from 0.5% to 0.25% - and restarted its quantitative easing programme to support the economy.,0.0,0.0
+51,"His final week in March 2020 saw the start of the acutest phase of the Covid pandemic - the Bank cut rates by 0.5% to support the economy, and Mr Carney told the country that the economic shock ""should be temporary"".",0.1,0.6
+52,,0.0,0.0
+53,"Carney's time at the bank gave him plenty of experience dealing with Donald Trump - who has not only imposed steep tariffs on Canada since returning to office in January, but has also suggested that America should annex its less powerful neighbour.",0.044444444444444446,0.6888888888888888
+54,"From 2011-18, Carney was chair of the Financial Stability Board which co-ordinated the work of regulatory authorities around the world, giving him a key role in the global response to the policies of the first Trump presidency.",0.0625,0.3333333333333333
+55,"He was a regular at the G20 meetings, with a pitch-side view of Trump on the global stage.",0.0,0.038461538461538464
+56,"He is also known as an advocate for environmental sustainability. In 2019 he became a UN special envoy for climate change, and in 2021 launched the Glasgow Financial Alliance for Net Zero, a grouping of banks and financial institutions working to combat climate change.",0.08928571428571429,0.14285714285714285
+57,"His political ambitions have been rumoured for years, but until recently the 59-year-old had brushed off the idea.",0.0,0.15
+58,"""Why don't I become a circus clown?"" he told a reporter in 2012.",0.0,0.0
+59,"Things changed, however, when Trudeau stepped down in January after his finance minister, Chrystia Freeland quit his cabinet, sparking a party squabble that, coupled with Trudeau's tanking poll numbers, led the prime minister to announce his resignation.",-0.15555555555555559,0.2888888888888889
+60,Reports suggested Trudeau had intended to replace Freeland with Carney in the finance post.,0.0,0.0
+61,"Freeland - a personal friend - even ran against him in the race to replace Trudeau. But Carney won by a landslide, pitching himself as the best equipped to take on Trump, who has imposed steep tariffs on Canadians goods.",0.5,0.3
+62,"""I know how to manage crises,"" Carney said during a leadership debate late last month. ""In a situation like this, you need experience in terms of crisis management, you need negotiating skills.""",-0.15,0.3333333333333333
+63,"Still, his time in the world of finance has opened him up to criticism from political rivals in Canada.",0.0,0.1
+64,"The Conservatives have accused Carney of lying about his role in moving investment firm Brookfield Asset Management's head office from Toronto to New York, though Carney says the recent formal decision to relocate the firm was made after he quit the board.",-0.06590909090909092,0.3761363636363636
+65,"They have also pushed him to disclose his financial assets, which Carney currently does not need to do as he is not an elected member of parliament.",0.0,0.2
+66,His team has said he will comply with all applicable ethics rules and guidelines once he is prime minister.,0.0,0.0
+67,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+68,,0.0,0.0
+69,Smoke clouds loom over New York motorway as blaze breaks out.,0.13636363636363635,0.45454545454545453
+70,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+71,,0.0,0.0
+72,Jayne's excessive hoarding after her husband died got so bad that she could only sleep on one half of her bed.,-0.2791666666666666,0.7083333333333333
+73,"""The other half was three to four foot high of boxes,"" said the mum-of-two, who started collecting to fill the gap left behind after her husband took his own life.",0.011388888888888893,0.46361111111111103
+74,"Jayne is one of an estimated one in 20 people in the UK thought to have a hoarding disorder, and is trying a new technique to release the ""millstone"" around her neck.",0.13636363636363635,0.45454545454545453
+75,"With hoarding relapse rates very high, instead of the usual method of throwing it all away, Jayne is getting help to reuse and repurpose her stuff so she doesn't hoard again.",-0.02099999999999999,0.476
+76,The 75-year-old said hoarding became a small way to find pleasure in life again after being left a widowed single mum with two teenage children.,-0.08035714285714285,0.15357142857142858
+77,"The items Jayne holds on to, including her large collection of ornamental cats, gave her the enjoyment she said she was missing after her husband's death almost 30 years ago.",0.007142857142857131,0.23928571428571427
+78,"''I think I cried every day for years,"" said the retired librarian.",0.0,0.0
+79,"''I wouldn't wish it on my worst enemy.""",-1.0,1.0
+80,"Jayne said going on shopping trips and buying ""nice things"" helped her grief.",-0.10000000000000003,0.6
+81,"""I was looking for pleasure in my life,"" she recalled.",0.0,0.0
+82,"""I had money and had to keep myself occupied. I overcompensated but that's the way I dealt with it.""",0.0,0.0
+83,"Jayne said she ""never felt happier"" when she came home from a shopping trip with ""so much stuff in my car that I couldn't get anything else in it"".",0.2,0.2
+84,"But when she found herself sleeping on half of her bed because the other half was piled 4ft [1.2m] high with boxes, she thought to herself things needed to change.",-0.07458333333333331,0.31208333333333327
+85,"""It was like a millstone around my neck,"" said Jayne.",0.0,0.0
+86,"""I was sleeping in half of my bed because the other half was three to four foot high with boxes,"" she said.",-0.07458333333333331,0.31208333333333327
+87,"""This room was about six foot high with stuff, the whole house was like that. You realise this is an addiction.""",0.18,0.47
+88,Jayne is now being helped by an organisation who find new uses for her hoarded items and stop them going to landfill.,0.13636363636363635,0.45454545454545453
+89,The animal lover has started boxing up her collectables and giving them away - like to a school not far from her in south Wales.,-0.05,1.0
+90,She said being a home owner has saved her from forced clearances but she's heard many stories about them from the people at the support group she attends every week.,0.09999999999999998,0.35
+91,"""I've got so much stuff I'm attached to, I don't know how I would've coped with someone coming in and throwing all my stuff away,"" admitted Jayne, who lives with her dog and eight cats in Newport.",0.2,0.2
+92,"""But if somebody gets some pleasure out of my stuff, I'm quite happy for it to go now.""",0.8,1.0
+93,"Jayne was referred to Holistic Hoarding two years ago to help, and now gives away boxes week after week, something which the charity says 12 months ago would have been ""impossible"" for her.",-0.6666666666666666,1.0
+94,"""If you value every single item in your home and somebody comes in with no care and just throws it in the bin - how would that make you feel?"" said sustainability officer Celeste Lewis.",-0.07142857142857142,0.21428571428571427
+95,"""If we can show them that other people can find value in their items, they have pride instead of shame.""",-0.125,0.375
+96,"Hawthorn Primary School in Cardiff is one of the recipients of the objects and their headteacher Gareth Davies said it gave the children ""equipment we would never be able to afford within the budget"".",0.45,0.5625
+97,"Without supported intervention, experts estimate nearly all people with hoarding behaviours who are forced to clear their homes will relapse.",-0.03333333333333334,0.3277777777777778
+98,"""We are looking at a 97% relapse rate of enforced clearances without therapeutic intervention,"" said Holistic Hoarding founder Kayley Hyman.",0.0,0.0
+99,"Support workers can spend up to two years working with someone and Holistic Hoarding, which covers parts of south-east Wales, get at least two new referrals for help every day.",-0.08181818181818182,0.42727272727272725
+100,"""This is a very hard-to-reach population,"" said Prof Mary O'Connell, a University of South Wales lecturer who researches hoarding.",0.2,0.3
+101,"""I think there is a massive idea that if you can't cope with a bit of washing up, keep up with keeping your house clean then somehow, you're failing. It's a very private disorder.""",0.12222222222222223,0.7291666666666666
+102,Jayne said she appreciated the support she has had and hopes people can be more understanding of hoarding and why people do it.,0.35,0.3
+103,"""You're just trying to keep yourself as happy as you can in the circumstances,"" she said. ""I feel more positive because I can see the wood from the trees now.""",0.5090909090909091,0.6818181818181818
+104,If you have been affected by any of the issues raised in this story you can visit BBC Action Line.,0.1,0.1
+105,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+106,,0.0,0.0
+107,"Six months ago, a viral TikTok trend made us obsessed with being very demure and very mindful - but now, modesty has taken a back seat among celebrities who have made see-through outfits all the rage on red carpets and catwalks.",-0.019999999999999997,0.32
+108,"At the Brit Awards last week, big winner Charli XCX went full brat as she wore a sheer black dress, prompting hundreds of complaints to media watchdog Ofcom.",0.03666666666666667,0.38
+109,"She used one of her acceptance speeches to address the controversy of her outfit. ""I heard that ITV were complaining about my nipples,"" she said. ""I feel like we're in the era of 'free the nipple' though, right?""",0.34285714285714286,0.6678571428571429
+110,"The nearly naked look has been a talking point at other award ceremonies - including last Sunday's Oscars and the Grammys in February, when Kanye West's wife Bianca Censori dropped her coat on the red carpet to reveal an almost entirely invisible dress.",-0.025,0.29333333333333333
+111,"The love for transparent textiles has continued at London and Paris fashion weeks, with many of the celebrities watching on also getting the memo.",0.5,0.55
+112,"At Stella McCartney's Paris show, US actress and Michael Jackson's daughter Paris Jackson wore a translucent black off-the-shoulder maxi dress with only a nude-coloured thong underneath.",-0.08333333333333333,0.7166666666666667
+113,Rapper Ice Spice sported a black lace catsuit with a feathered coat at the show.,-0.16666666666666666,0.43333333333333335
+114,"Naked dressing was a key trend in some designers' spring/summer collections, and the theme has continued in autumn/winter looks too.",0.0,0.7
+115,"As Vogue wrote in January: ""For a period of time, sheerness was few and far between, but nowadays, 'naked dressing' is commonplace every season.""",-0.03333333333333333,0.5
+116,"Dior's latest collection embraced see-through material and presented it in an ethereal way, with intricate detailing and gender-fluid silhouettes.",0.5,0.9
+117,"Creative director Maria Grazia Chiuri described her collection as ""demonstrating how clothing is a receptacle that affirms cultural, aesthetic and social codes"".",0.2111111111111111,0.3888888888888889
+118,"The trend divides opinion but is certainly part of a wider movement - last summer Charli XCX's definition of being a brat included wearing ""a strappy white top with no bra"".",0.17857142857142858,0.2845238095238095
+119,"Sheer dressing is a nod to the minimalist looks of the 1990s - think transparent blouses and Kate Moss wearing a thin slip dress - and with our love for nostalgia fashion, it's no wonder it is taking off again.",0.033333333333333326,0.7333333333333334
+120,"The trend also had a resurgence a decade ago. The ""free the nipple"" movement was everywhere in the early 2010s, with Rihanna stirring up headlines with her sheer crystal-embellished dress at the CFDA awards in 2014.",0.16666666666666666,0.6166666666666667
+121,"Charli XCX's Brits outfit was praised by some on social media. ""Stop policing women's bodies,"" one person wrote, while another said she looked comfortable in her outfit so ""why is society judging?""",0.21666666666666667,0.43333333333333335
+122,"But many found it too risque for prime-time TV. Ofcom received 825 complaints  about the Brits ceremony, the majority relating to Charli's outfit and Sabrina Carpenter's eye-opening pre-watershed performance.",0.5,0.5
+123,"""Maybe think about putting this on at a time when kids ain't gonna be watching,"" one person wrote on social media.",0.03333333333333333,0.06666666666666667
+124,"Fashion stylist and CEO of clothing brand Mermaid Way, Julia Pukhalskaia, calls the choice to wear revealing dresses a ""provocative statement"", but says it's a ""way to reclaim the right to govern one's body"".",0.2857142857142857,0.5357142857142857
+125,"The controversy around it feeds into a wider dialogue about women's rights and double standards when it comes to dress codes, she adds.",0.0,0.0
+126,"Abhi Madan, creative director of fashion brand Amarra, believes the trend ""is about embracing freedom and boldness in fashion"".",0.5,1.0
+127,"The idea of freeing the nipple ""isn't just about exposure - it's a movement towards body positivity and challenging conventional fashion norms"", he argues.",0.17857142857142858,0.6785714285714286
+128,"""Designers are now integrating sheer elements not just for shock value but to create a refined and elegant silhouette that empowers wearers.""",0.25,0.875
+129,"It seems many Hollywood stars this year were feeling empowered as chiffon, lace and tulle were in plentiful supply at the Oscars.",0.5,0.5
+130,"Shock value is surely a factor for some, too, though.",0.5,0.8888888888888888
+131,"At Vanity Fair's Oscars afterparty, Julia Fox wore a mesh dress with only long wavy hair to cover some of her modesty.",0.21666666666666665,0.7666666666666666
+132,"There were other interpretations of the naked dress - Megan Thee Stallion wore a green dress with strategically placed foliage and nipple coverings, while Zoe Kravitz opted to cover up the front but expose the back as a beaded mesh panel revealed her buttocks in her Saint Laurent dress.",-0.08125,0.26875
+133,"""This year, naked dressing seemed to particularly thrive at the event,"" the New York Times noted.",0.101010101010101,0.395959595959596
+134,"However, not everyone is on board. The Times fashion director Anna Murphy wrote that she's over the trend because ""it's only women who do this"".",0.0,1.0
+135,"""It is not an equal opportunities endeavour. It is, rather, a manifestation of the kind of thing that keeps this world unequal. That women's bodies are for public consumption and men's, usually, aren't,"" she wrote.",0.0875,0.36666666666666664
+136,"Some men have been embracing the nearly naked trend, though. In 2022, Timothée Chalamet wore striking a backless red top at Venice Film Festival, and at the 2023 Grammys Harry Styles freed the nipple in a plunge harlequin jumpsuit.",0.25,0.475
+137,"It's the women who will continue to cause more of a stir on runways and red carpets - and society will still be split on whether it's redefining conventional notions of modesty in fashion, a product of misogyny, or simply seeking attention.",0.08928571428571429,0.3035714285714286
+138,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+139,,0.0,0.0
+140,Ex-tropical cyclone Alfred caused huge swells and flooding as it hit Australia's east coast over the weekend.,0.4000000000000001,0.9
+141,"Footage shows beach erosion at the Gold Coast's Surfers Paradise, a car windscreen impaled by a tree and damage to property caused by the storm.",0.0,0.0
+142,Residents are being warned that heavy rain is set to continue in the region over the coming days.,-0.2,0.5
+143,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+144,,0.0,0.0
+145,"Mark Carney has won the race to succeed Justin Trudeau as Canada's prime minister, vowing to win the trade war with the US and President Donald Trump.",0.8,0.4
+146,The former governor of the Canadian central bank and Bank of England beat three rivals in the Liberal Party's leadership contest in a landslide.,0.0,0.125
+147,"In much of his victory speech, Carney, 59, attacked Trump, who has imposed tariffs on Canada and said he wants to make the country the 51st US state. ""Americans should make no mistake,"" he said. ""In trade, as in hockey, Canada will win.""",0.4000000000000001,0.23333333333333336
+148,"Carney is expected to be sworn in the coming days and will lead the Liberals in the next general election, which could be called in the coming weeks.",-0.016666666666666663,0.3
+149,"Carney, now prime minister-designate, has never served in elected office.",0.0,0.0
+150,"The Liberal leadership race began in January after Trudeau resigned following nearly a decade in office. He had faced internal pressure to quit over deep unpopularity with voters, who were frustrated with a housing crisis and the rising cost of living.",-0.12,0.22000000000000003
+151,"Carney won on the first ballot on Sunday evening, taking 85.9% of the vote to beat his nearest rival, former Finance Minister Chrystia Freeland.",0.125,0.16666666666666666
+152,"Loud cheers erupted as the results were announced to a crowd of some 1,600 party faithful in Ottawa, Canada's capital.",0.1,0.8
+153,"The party said more than 150,000 people had cast ballots in the race.",0.5,0.5
+154,"Carney, who will lead a minority government in parliament, could either call a snap general election himself or opposition parties could force one with a no-confidence vote later this month.",0.02500000000000001,0.25
+155,"The governing Liberals have seen a remarkable political turnaround since Trudeau's exit, as Canadians have been galvanised by Donald Trump's trade threats and support for annexing their country",0.375,0.425
+156,"At the beginning of the year, they trailed the Conservatives, led by Pierre Poilievre, by more than 20 points in election polls.",0.5,0.5
+157,They have since narrowed the gap and some polls show them statistically tied with Poilievre's party.,0.0,0.0
+158,"Much of Carney's speech focused on what he called Trump's ""unjustified tariffs"" on Canada, America's largest trading partner.",0.2,0.2
+159,"The US imposed levies of 25% on Canadian goods last Tuesday, but rowed back within days to exempt goods compliant with an existing trade agreement.",0.0,0.03333333333333333
+160,Canada responded with retaliatory tariffs of its own as Trudeau accused his US counterpart of trying to collapse the country's economy.,0.6,1.0
+161,"Carney echoed that in his victory speech, saying Trump was ""attacking Canadian workers, families, and businesses"".",0.0,0.0
+162,"""We can't let him succeed,"" he added, as the crowd booed loudly.",0.1,0.8
+163,"He said his government would keep tariffs on US imports ""until the Americans show us respect"".",0.0,0.0
+164,Canada's economy depends significantly on trade with the US and risks tipping into recession if the sweeping tariffs threatened by Trump are fully imposed.,0.375,0.875
+165,"""I know these are dark days,"" Carney said. ""Dark days brought on by a country we can no longer trust.",-0.15,0.4
+166,"""We're getting over the shock, but let us never forget the lessons: we have to look after ourselves and we have to look out for each other. We need to pull together in the tough days ahead.""",-0.2569444444444444,0.6041666666666667
+167,"Carney also pledged to ""secure our borders"" - a key demand of Trump who has accused Canada of failing to control the flow of migrants and fentanyl going south.",0.2,0.8
+168,"The US president even got a mention in Carney's attacks on his main opponent, Conservative leader Poilievre.",0.16666666666666666,0.3333333333333333
+169,"""Pierre Poilievre's plan will leave us divided and ready to be conquered,"" said Carney.",0.2,0.5
+170,"""Because a person who worships at the altar of Donald Trump will kneel before him, not stand up to him.""",0.0,0.0
+171,"Shortly before Carney took to the stage, Trudeau gave an emotional farewell speech, reflecting on his 12 years as Liberal leader.",0.0,0.475
+172,"He warned that Canada was facing an ""existential challenge"" from the US under Trump.",0.0,0.0
+173,"The Conservatives have had to pivot politically since Trudeau's resignation, and are attacking Carney as not representing change but rather being ""just like Justin"".",0.0,0.1
+174,"They accuse the Liberals of a ""sneaky"" plan to win a fourth term by simply substituting their leader.",0.26666666666666666,0.2523809523809524
+175,Poilievre's party has also accused Carney of lying about his role in moving investment firm Brookfield Asset Management's head office from Toronto to New York.,-0.03181818181818183,0.42727272727272725
+176,Carney said the formal decision by shareholders to relocate the firm was made after he quit the board at the start of this year but a letter emerged showing he had recommended the move in December.,-0.2,0.4
+177,"Federal Public Safety Minister David McGuinty, who endorsed Carney, told the BBC that he ""embodies the kind of quiet determination, but steely determination and competence to deal with some of these big issues"".",0.15,0.35000000000000003
+178,"""I'm really, really excited for what's coming. And frankly, it's time for an election.""",0.375,0.75
+179,"The Liberals will face Poilievre's Conservatives, who are the official opposition with 120 seats in the House of Commons; the Bloc Quebecois, who have 33 seats; and the New Democrats, who have 24, when Canadians next go to the polls.",0.06818181818181818,0.22727272727272727
+180,"The former central banker has run on a broadly centrist agenda, a shift from Trudeau, who moved the Liberals to the left.",0.015625,0.140625
+181,"A major promise is to push forward major energy projects like pipelines, which have faced political roadblocks in recent years.",0.03125,0.3375
+182,"He has promised major investments in housing and clean energy projects, and to liberalise trade within Canada, where barriers remain between provinces, as well as diversifying the economy away from the US.",0.21458333333333335,0.6000000000000001
+183,"During the leadership race, Carney promised to cap the size of the federal government, which expanded 40% under Trudeau.",0.0,0.0
+184,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+185,,0.0,0.0
+186,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+187,,0.0,0.0
+188,"The United States has ordered all its non-emergency staff in South Sudan to leave, amid rising tensions in the country.",0.0,0.0
+189,Fighting in recent days has threatened an already fragile peace deal between President Salva Kiir and Vice-President Riek Machar.,0.0,0.375
+190,"The two leaders signed a peace agreement in 2018 to end a five-year civil war that killed hundreds of thousands of people, but their relationship has remained fraught.",-0.2,0.0
+191,"On Sunday, the US State Department said that fighting was ongoing in South Sudan between various political and ethnic groups and that ""weapons are readily available to the population"".",0.13333333333333333,0.3333333333333333
+192,"""Due to the risks in the country, on March 08, 2025, the Department of State ordered the departure of non-emergency US government employees,"" it said.",-0.125,0.375
+193,"The UN human rights commission for South Sudan on Saturday warned of an ""alarming regression"" that threatened to undo years of progress towards peace.",-0.05,0.35
+194,President Kiir has called for calm and made an assurance that the country would not return to war.,0.30000000000000004,0.75
+195,"In an escalation of the tensions, a UN helicopter that had been evacuating members of the national army was shot at on Friday, killing several people, including one crew member.",0.0,0.0
+196,"Earlier in the week, the deputy chief of the army and two ministers allied to Machar were arrested by security forces, which an opposition spokesman termed a ""grave violation"" of the peace deal.",0.0,0.5
+197,"The arrests of the Machar-allied officials followed clashes in the country's Upper Nile state between government forces and a militia known as the White Army, which had fought alongside Machar during the civil war.",0.0,0.0
+198,"South Sudan, the world's newest nation, gained independence in 2011 after seceding from Sudan.",0.0,0.0
+199,"But just two years later, following a rift between Kiir and Machar, the country descended into a civil war, in which more than 400,000 people were killed.",0.075,0.15
+200,"The 2018 power-sharing agreement between the two stopped the fighting, but key elements of the deal have not been implemented – including a new constitution, an election, and the reunification of armed groups into a single army.",0.021645021645021644,0.5562770562770563
+201,Sporadic violence between ethnic or local groups has continued in parts of the country.,0.0,0.0
+202,Go to BBCAfrica.com for more news from the African continent.,0.25,0.25
+203,,0.0,0.0
+204,"Follow us on Twitter @BBCAfrica, on Facebook at BBC Africa or on Instagram at bbcafrica",0.0,0.0
+205,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+206,,0.0,0.0
+207,"Romanian far-right populist Calin Georgescu has been barred from participating in  May's presidential election rerun by the country's Central Electoral Bureau (BEC), triggering clashes between his supporters and police.",0.0,0.25
+208,"Last year, Romania's constitutional court annulled November's first round of the vote - in which he came first - after intelligence revealed Russia had been involved in 800 TikTok accounts backing him.",0.075,0.2833333333333333
+209,"The BEC rejected his candidacy on Sunday, saying it ""doesn't meet the conditions of legality"", as he ""violated the very obligation to defend democracy"".",0.2,0.3
+210,"Georgescu called that decision a ""direct blow"" to democracy. He now has 24 hours from Sunday's verdict to submit an official appeal to the top court, which should issue a ruling within 72 hours.",0.3,0.45
+211,"In a social media post, Georgescu called the ban a ""direct blow to the heart of democracy worldwide"".",0.06666666666666667,0.23333333333333334
+212,Tear gas was fired at supporters of the presidential hopeful as violence broke out between them and police while they gathered in their thousands outside the offices of the BEC in the capital Bucharest.,0.0,0.05
+213,"The BBC saw at least one car turned over, and the windows of neighbouring bars smashed. At least four people were detained.",-0.3,0.4
+214,"While many protesters left the scene, several hundred people remained and continued to fight with riot police, who brought in reinforcements and attempted to cordon off the area.",0.16666666666666666,0.16666666666666666
+215,"On 26 February, Georgescu was arrested on his way to register as a candidate in the summer election, prompting tens of thousands of Romanians to march on Bucharest's streets in protest.",0.0,0.0
+216,He was charged with attempting to overthrow constitutional order and membership of a neo-fascist organisation. He has denied all wrongdoing.,0.0,0.0
+217,"The 62-year-old independent came from nowhere to win the first round of last year's election, the results of which were annulled just days before the second round of voting.",0.09285714285714287,0.24642857142857144
+218,"One key to his sudden popularity was his promise to ""restore Romania's dignity"" and end subservience to the international organisations it belongs to, including Nato and the EU.",0.0,0.5
+219,"Before last year's annulment, the pro-Russian politician told the BBC he would end all support for Ukraine if he was elected.",0.0,0.06666666666666667
+220,Georgescu has also seen some support from the Trump administration.,0.0,0.0
+221,"Last month, US Vice-President JD Vance accused Romania of annulling the elections based on the ""flimsy suspicions"" of Romanian intelligence and pressure from its neighbours.",0.0,0.06666666666666667
+222,"Meanwhile, Romanian Foreign Minister Emil Hurezeanu accused Elon Musk of a ""form of interference"" in Romania's elections, after the billionaire posted several messages of support for Georgescu.",-0.0625,0.0625
+223,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+224,,0.0,0.0
+225,"Tesla facilities across the US are facing protests and vandalism in response to the political role Elon Musk, who owns the car manufacturer, has played in the Trump administration.",0.0,0.1
+226,"Most ""Tesla Takedown"" protests have been peaceful, but a few have been destructive with fires intentionally set at Tesla showrooms and charging stations in Colorado and Massachusetts last week.",-0.009999999999999986,0.3533333333333334
+227,That was followed by six arrests in New York over the weekend when hundreds of protesters occupied a Tesla showroom.,0.13636363636363635,0.45454545454545453
+228,"There has also been a spike in Cybertruck vandalism across the US, and some car owners are defacing their own Teslas in protest of Musk.",0.6,1.0
+229,"One woman showed up to a protest outside a Burbank Tesla on Sunday with an expletive and Musk's name scrawled in chalk across her white Model X sedan. Another car carried an ""Anti Elon Tesla Club"" sticker.",0.0,0.025
+230,The protests illustrate a growing unease over Musk's influence on the US government since President Donald Trump allowed him to create the cost-cutting task force Department of Government Efficiency (Doge).,0.0,0.0
+231,"So far, Doge has fired or offered buyouts to about 100,000 federal employees and gained access to the sensitive personal and financial information of millions of Americans.",0.05,0.5499999999999999
+232,"Critics have resorted to calling the tech billionaire ""President Musk"", arguing that he has too much power in the White House. Some at the protest in Burbank held signs that said ""Deport Elon"" and ""Boycott Swasticar"" - with protesters attempting to connect the car to fascism.",0.1,0.1
+233,"Tesla produced the must-have electric cars for many Americans with progressive views, but several protesters said they regretted their purchase after Musk involved himself with Trump and US politics.",0.25,0.25
+234,"Karen Rabwin, a protester at the Burbank Tesla on Sunday, attended just two days after trading in her Tesla for a Cadillac. She had slapped a bumper sticker on her old vehicle that read ""Bought This Car Before We Knew"" in a veiled reference to Musk, but she felt that wasn't enough.",0.05,0.35
+235,"""It was embarrassing,"" she said of driving the Tesla. ""It wasn't what I stood for. How could I drive that car? I have principles.""",0.0,0.0
+236,Singer Sheryl Crow donated her Tesla to National Public Radio last month. She posted a video to Instagram waving goodbye to the car as it was towed away.,0.0,0.06666666666666667
+237,"""There comes a time when you have to decide who you are willing to align with. So long Tesla,"" Ms Crow wrote.",0.1,0.575
+238,Musk has responded to the protests by sharing a video on X - the social media platform he owns - of a Cybertruck customer in Texas marvelling at the vehicle's full self-driving mode.,0.19166666666666665,0.30833333333333335
+239,"""Heartfelt thanks to everyone supporting Tesla, despite many attacks against our stores and offices,"" Musk wrote.",0.2375,0.4875
+240,"The social media platform has many posts of Tesla owners showcasing their electric cars. But there are also now videos showing a growing trend of Cybertrucks vandalized with swastikas, used as skate ramps or covered in garbage.",0.26666666666666666,0.2833333333333333
+241,"During Mardi Gras in New Orleans, spectators booed an orange Cybertruck and pelted it with beads, calling the futuristic looking vehicle a ""Deplorean"" or other unfriendly monikers.",0.005681818181818177,0.4147727272727273
+242,Protesters on Sunday said they want to take down Telsa's value because they are concerned that Mr Musk is damaging the economy and the the country - and their efforts may be having an effect.,-0.15555555555555559,0.2888888888888889
+243,While Tesla's share price surged after Trump was elected - with Musk by his side on election night in Florida - they have tumbled back to pre-election levels following the  backlash to Musk's political involvement.,0.0,0.06666666666666667
+244,Some on Sunday also raised concerns that Musk's government involvement is benefiting his businesses.,0.0,0.0
+245,"Critics note that the tech entrepeneur's companies have billions of dollar of contracts with the US government, primarily with Nasa and the Defense Department, which are increasingly reliant on Musk's SpaceX for satellite launches and space exploration.",0.4,0.5
+246,"Last week, reports claimed the Musk had attempted to get the Federal Aviation Administration to cancel a $2.4 billion contract with Verizon to revamp the agency's telecommunications system and awarding it to Starlink, a company owned by SpaceX, instead.",0.0,0.06666666666666667
+247,"SpaceX denied that report, posting on X that ""Starlink is a possible partial fix to an aging system. There is no effort or intent for Starlink to 'take over' any existing contract"".",-0.05,0.65
+248,Some constituents are furious at Musk's involvement and the White House's effort to cut certain jobs and programmes. Many have show up at Republican town halls to protest the cuts and the tech billionaire's growing influence.,0.2380952380952381,0.35714285714285715
+249,"House Speaker Mike Johnson and other Republican leaders urged members of their party to stop hosting events in response, claiming without evidence that they were being disrupted by ""professional protesters"".",-0.012499999999999997,0.2375
+250,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+251,,0.0,0.0
+252,"Betsy Arakawa, wife of Oscar-winning actor Gene Hackman, died from a respiratory illness linked to hantavirus, a rare disease transmitted by infected rodents, officials have confirmed.",0.35,0.95
+253,"Health experts warn that hantavirus can cause flu-like symptoms after exposure to rodent droppings, and in severe cases, it may develop into Hantavirus Pulmonary Syndrome (HPS), a life-threatening lung condition.",0.0,0.0
+254,"Medical investigators believe Ms Arakawa contracted HPS, which led to her death.",0.0,0.0
+255,"It is believed she died a week before her husband, who was in the advanced stages of Alzheimer's disease. Authorities discovered the deceased couple in their New Mexico home last month.",0.1787878787878788,0.3737373737373737
+256,Here's what you need to know about hantavirus.,0.0,0.0
+257,"Hantavirus refers to a strain of viruses carried by rodents, primarily transmitted to humans through inhalation of airborne particles from dried rodent droppings.",0.1,0.55
+258,"Infections typically occur when the virus becomes airborne from a rodent's urine, droppings, or saliva, according to the Centers for Disease Control and Prevention (CDC).",-0.16666666666666666,0.5
+259,"Though rare, it can also spread through rodent bites or scratches. In North America, deer mice are the most common carriers, according to the Mayo Clinic.",0.16666666666666666,0.6333333333333333
+260,"The virus can cause two severe illnesses. The first, Hantavirus Pulmonary Syndrome  - the most common strain in the US - was the illness that led to Ms Arakawa's death, officials say.",0.15,0.4444444444444444
+261,"Symptoms often start with fatigue, fever, and muscle aches, followed by headaches, dizziness, chills, and abdominal issues. If respiratory symptoms develop, the mortality rate is approximately 38%, according to the CDC.",-0.4,0.6
+262,"The second  illness, Haemorrhagic Fever with Renal syndrome, is more severe and primarily affects the kidneys.",0.3,0.3333333333333333
+263,The CDC reported 864 cases of hantavirus in the US between 1993 and 2022.,0.0,0.0
+264,"Most of the cases were found in rural areas of western states like California, Washington, Arizona, New Mexico and Colorado.",0.1590909090909091,0.23863636363636365
+265,"The agency began surveillance for hantavirus diseases in 1993 during an outbreak of severe respiratory illness near the Four Corners region of the US where Arizona, Colorado, New Mexico and Utah all meet.",0.11818181818181818,0.42727272727272725
+266,"There may be around 150,000 cases of Haemorrhagic Fever with Renal syndrome worldwide each year, according to a report from the National Institutes of Health. More than half occur in China.",0.16666666666666669,0.3333333333333333
+267,There is no specific treatment for hantavirus infections.,0.0,0.125
+268,The CDC recommends supportive care to treat symptoms.,0.5,1.0
+269,Patients with severe symptoms may need to be admitted to hospitals in intensive care units. Some may need to be intubated in severe cases.,0.0,0.0
+270,The CDC recommends eliminating contact with rodents in homes or workplaces to reduce exposure to the virus.,0.0,0.0
+271,The agency also recommends sealing entry points in basements or attics where rodents may enter homes.,0.0,0.0
+272,Wearing protective gear is also suggested when cleaning up rodent droppings to avoid inhaling contaminated air.,0.0,0.0
+273,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+274,,0.0,0.0
+275,"Canadian Prime Minister Justin Trudeau became emotional during one of his final press conferences as leader of the country. He reflected on his decade in power, acknowledging both the achievements and challenges. In January, Trudeau resigned, citing 'internal battles' in his governing Liberal party.",0.0,0.5499999999999999
+276,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+277,,0.0,0.0
+278,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+279,,0.0,0.0
+280,"Mark Carney is due to be sworn in as Canada's next prime minister in the coming days, having won the race to succeed Justin Trudeau.",-0.0625,0.1875
+281,It means he will lead the governing Liberal Party of Canada in the next election -  which is expected to be called soon.,-0.05,0.2
+282,Several political leaders had called for a vote after Trudeau announced he was resigning as leader of the Liberals in January.,0.0,0.05
+283,"But after US President Donald Trump imposed steep tariffs on the country, potentially sparking a trade war, opposition parties have suggested Canada should vote as soon as possible.",0.0,1.0
+284,"By law, the maximum time between federal elections in Canada is five years. The next vote is officially scheduled for 20 October 2025.",0.0,0.0
+285,"However, there are a couple of scenarios in which an early election can be triggered:",0.1,0.3
+286,"When Trudeau resigned in January, he suspended parliament so that the Liberal Party, which currently controls government, could have a leadership race to find his replacement.",0.0,0.4
+287,"Carney, announced as Trudeau's replacement on Sunday, could call an election early.",0.1,0.3
+288,"Pierre Poilievre, who leads the opposition Conservative Party, has already said he will call for a vote of no confidence once parliament returns, as has Jagmeet Singh, the leader of the New Democratic Party.",0.13636363636363635,0.45454545454545453
+289,"In the Canadian federal election - as in the UK's general election - voters do not cast a ballot directly for a prime minister. Instead, it is the leader of the party with the majority of members of parliament (MPs) who becomes PM.",0.07500000000000001,0.45
+290,"That means Carney will be in the running, along with Poilievre and Singh.",0.0,0.0
+291,"Four main parties will contest the next election - the Liberals, the Conservatives, the New Democrats (NDP) and the Bloc Quebecois.",0.101010101010101,0.2626262626262626
+292,"The Liberals have been in power since 2015, when Trudeau was voted in. They currently hold 153 seats.",0.0,0.4
+293,The Conservatives are the official opposition with 120 seats.,0.0,0.0
+294,"The Bloc Quebecois, which only runs candidates in the province of Quebec, has 33 seats, and the NDP has 24.",0.0,1.0
+295,The Green Party hold two seats.,-0.2,0.3
+296,"During the latter stages of Trudeau's premiership, opinion polls consistently showed the Conservatives with a strong lead.",0.22777777777777777,0.3277777777777778
+297,"But the numbers tightened after Trudeau stepped down. Trump has since taken office in the US and introduced steep tariffs against Canada, which has raised expectations of a closer vote.",-0.15555555555555559,0.2888888888888889
+298,"When Trudeau resigned at the beginning of this year, he did so under significant pressure from his own party - it was felt that his personal unpopularity was damaging the party's hopes of winning the next election.",0.29500000000000004,0.585
+299,"National polling averages, shared by the Canadian Broadcasting Corporation (CBC), show how support for the Liberals waned throughout 2023 and 2024.",0.0,0.0
+300,"At the same time, support for the Conservatives soared. On 20 January of this year - the day of Trump's inauguration - the Conservatives were polling 44.8% while the Liberals were on 21.9%.",0.0,0.125
+301,"Since then, polls suggest that support for the Liberals has ticked back up. The latest averages indicate that 40.4% of Canadians back the Conservatives, while 30.8% support the Liberals.",0.16666666666666666,0.3
+302,"In the process of regaining some support, the Liberals have attempted to draw comparisons between Poilievre and Trump in the aftermath of the US president introducing 25% tariffs on all Canadian imports to the country.",0.0,0.0
+303,"After being announced as Trudeau's successor, Carney said regarding the trade war that  ""Americans should make no mistake... Canada will win"".",0.8,0.4
+304,There are 343 federal ridings - also called constituencies or electoral districts -across the country. Each has a corresponding seat in the House of Commons.,0.0,0.0
+305,"All the seats in the lower chamber, the House of Commons, are up for grabs during an election.",0.0,0.0
+306,"Members of the Senate, the upper chamber, are appointed and do not run for election.",0.0,0.0
+307,"Like the UK, Canada has a ""first-past-the-post"" electoral system.",0.0,0.0
+308,The candidate who gets the most votes in each riding wins that seat and become an MP. They do not need to get the majority of all the votes cast in their area. Other parties win nothing in that area.,0.36875,0.36875
+309,The leader of the party with the largest number of elected MPs will normally form the government. The second-placed party usually forms the official opposition.,-0.05,0.44999999999999996
+310,"If no party ends up with a majority seats - the result is known as a hung parliament or a minority government. Practically, it means the party will not be able to pass legislation without the help of other parties.",0.1875,0.5
+311,"To vote in a Canadian election,  someone must be a Canadian citizen, at least 18 years old, and have proof of identity and address.",-0.09999999999999999,0.30000000000000004
+312,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+313,,0.0,0.0
+314,"Actor Pierce Brosnan has said it is a ""given"" that the next James Bond should be British.",0.0,0.0
+315,"In an interview with the Sunday Telegraph, the former Bond also said he thought it was the ""right decision"" for the franchise's long-standing producers to hand creative control to Amazon.",0.2619047619047619,0.5119047619047619
+316,"""It takes great courage for them to let go,"" said Brosnan, who is Irish.",0.4,0.375
+317,"""I hope that [Amazon] handles the work and the character with dignity and imagination and respect.""",0.0,0.0
+318,The choice of Daniel Craig's successor will be a decision for Amazon MGM Studios.,0.0,0.0
+319,"James Norton, Aaron Taylor-Johnson and Theo James - who are all English - are among the bookmakers' favourites to fill Craig's shoes.",0.0,0.0
+320,"Bond has been played by two non-British actors in the past - Australian George Lazenby as well as Irishman Brosnan - but 007 has never been an American, and among the names mooted for the role is California-born Austin Butler.",-0.08333333333333333,0.08333333333333333
+321,"Other non-British names that have been suggested include Irish stars Paul Mescal, Cillian Murphy and Aidan Turner, or Australian Jacob Elordi.",-0.041666666666666664,0.125
+322,"American Clint Eastwood once reportedly turned down the role, with the Hollywood legend previously claiming he was approached to take over after Sean Connery in 1967 but said: ""It didn't feel right for me to be doing it"".",-0.009126984126984136,0.24781746031746033
+323,"According to author Ian Fleming's novels, Bond had a Scottish father and Swiss mother.",0.0,0.0
+324,"Under the deal announced last month, Bond producers Barbara Broccoli and Michael G Wilson will remain co-owners of the franchise but Amazon MGM Studios ""will gain creative control"".",0.25,0.5333333333333333
+325,"Brosnan, 71, told the Telegraph: ""History has been passed on and I'm very proud to have been part of the history and the legacy of Bond and the movies I made with Barbara and Michael.""",1.0,1.0
+326,It is not clear when the next Bond will be announced - and there is still no timescale for when the next film will be made.,-0.01666666666666667,0.12777777777777777
+327,"The last film in the franchise, No Time To Die in 2021, was Craig's last.",0.0,0.06666666666666667
+328,"But given how much time it takes to make a blockbuster movie, the gap between No Time To Die and the next film could break the six-year record for the longest period between Bond releases.",0.1,0.1
+329,Brosnan starred in four Bond films from 1995's GoldenEye until 2002's Die Another Day.,0.0,0.0
+330,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+331,,0.0,0.0
+332,A shorter winter has literally left Nitin Goel out in the cold.,-0.3,0.5
+333,"For 50 years, his family's clothing business in India's northwestern textile city of Ludhiana has made jackets, sweaters and sweatshirts. But with the early onset of summer this year, the company is staring at a washout season and having to shift gears.",0.1,0.3
+334,"""We've had to start making t-shirts instead of sweaters as the winter is getting shorter with each passing year. Our sales have halved in the last five years and are down a further 10% during this season,"" Goel told the BBC. ""The only recent exception to this was Covid, when temperatures dropped significantly.""",0.03657407407407407,0.4967592592592593
+335,"Across India as cool weather beats a hasty retreat, anxieties are building up at farms and factories, with cropping patterns and business plans getting upended.",0.35,0.65
+336,Data from the Indian Meteorological Department shows that last month was India's hottest February in 125 years. The weekly average minimum temperature was also above normal by 1-3C in many parts of the country.,0.1,0.3433333333333333
+337,"Above-normal maximum temperatures and heatwaves are likely to persist over most parts of the country between March and May, the weather agency has warned.",0.25,0.75
+338,"For small business owners like Goel, such erratic weather has meant much more than just slowing sales. His whole business model, practised and perfected over decades, has had to change.",0.1125,0.44999999999999996
+339,"Goel's company supplies clothes to multi-brand outlets across India. And they are no longer paying him on delivery, he says, instead adopting a ""sale or return"" model where consignments not sold are returned to the company, entirely transferring the risk to the manufacturer.",0.0,0.625
+340,He has also had to offer bigger discounts and incentives to his clients this year.,0.0,0.5
+341,"""Big retailers haven't picked up goods despite confirmed orders,"" says Goel, adding that some small businesses in his town have had to shut shop as a result.",0.05000000000000001,0.5
+342,"Nearly 1,200 miles away in Devgad town on India's western coast, the heat has wreaked havoc on India's much-loved Alphonso mango orchards.",0.05,0.2
+343,"""Production this year would be only around 30% of the normal yield,"" said Vidyadhar Joshi, a farmer who owns 1,500 trees.",0.075,0.825
+344,"The sweet, fleshy and richly aromatic Alphonso is a prized export from the region, but yields across the districts of Raigad, Sindhudurg and Ratnagiri, where the variety is predominantly grown, are lower, according to Joshi.",0.3625,0.7
+345,"""We might make losses this year,"" Joshi adds, because he has had to spend more than usual on irrigation and fertilisers in a bid to salvage the crop.",0.125,0.375
+346,"According to him, many other farmers in the area were even sending labourers, who come from Nepal to work in the orchards, back home because there wasn't enough to do.",0.09375,0.34375
+347,"Scorching heat is also threatening winter staples such as wheat, chickpea and rapeseed.",0.0,0.5
+348,"While the country's agriculture minister has dismissed concerns about poor yields and predicted that India will have a bumper wheat harvest this year, independent experts are less hopeful.",-0.18888888888888888,0.2638888888888889
+349,"Heatwaves in 2022 lowered yields by 15-25% and ""similar trends could follow this year"", says Abhishek Jain of the Council on Energy, Environment and Water (Ceew) think tank.",0.0,0.4
+350,"India - the world's second largest wheat producer - will have to rely on expensive imports in the event of such disruptions. And its protracted ban on exports, announced in 2022, may continue for even longer.",-0.16666666666666666,0.39999999999999997
+351,Economists are also worried about the impact of rising temperatures on availability of water for agriculture.,0.0,0.0
+352,"Reservoir levels in northern India have already dropped to 28% of capacity, down from 37% last year, according to Ceew. This could affect fruit and vegetable yields and the dairy sector, which has already experienced a decline in milk production of up to 15% in some parts of the country.",0.21481481481481482,0.4185185185185185
+353,"""These things have the potential to push inflation up and reverse the 4% target that the central bank has been talking about,"" says Madan Sabnavis, Chief Economist with Bank of Baroda.",0.0,0.625
+354,"Food prices in India have recently begun to soften after remaining high for several months, leading to rate cuts after a prolonged pause.",0.05333333333333334,0.2633333333333333
+355,"GDP in Asia's third largest economy has also been supported by accelerating rural consumption recently after hitting a seven-quarter low last year. Any setback to this farm-led recovery could affect overall growth, at a time when urban households have been cutting back and private investment hasn't picked up.",-0.06,0.18916666666666665
+356,"Think tanks like Ceew say a range of urgent measures to mitigate the impact of recurrent heatwaves needs to be thought through, including better weather forecasting infrastructure, agriculture insurance and evolving cropping calendars with climate models to reduce risks and improve yields.",0.5,0.5
+357,"As a primarily agrarian country, India is particularly vulnerable to climate change.",-0.04999999999999999,0.5
+358,"Ceew estimates three out of every four Indian districts are ""extreme event hotspots"" and 40% exhibit what is called ""a swapping trend"" - which means traditionally flood-prone areas are witnessing more frequent and intense droughts and vice-versa.",0.135,0.71
+359,"The country is expected to lose about 5.8% of daily working hours due to heat stress by 2030, according to one estimate. Climate Transparency, the advocacy group, had pegged India's potential income loss across services, manufacturing, agriculture and construction sectors from labour capacity reduction due to extreme heat at $159bn in 2021- or 5.4% of its GDP.",-0.07916666666666666,0.525
+360,"Without urgent action, India risks a future where heatwaves threaten both lives and economic stability.",0.10000000000000002,0.1416666666666667
+361,"Follow BBC News India on Instagram, YouTube, X and Facebook.",0.0,0.0
+362,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+363,,0.0,0.0
+364,"A former Thai police chief who was jailed for life three years ago for torturing a drug suspect to death has been found dead in his Bangkok jail cell, authorities said.",-0.10000000000000002,0.13333333333333333
+365,"Thitisan Utthanaphon, who was nicknamed Joe Ferrari for his many luxury cars, died by suicide, according to a preliminary autopsy.",0.5,0.5
+366,"In 2021, a leaked video showed Thitisan and his colleagues wrapping plastic bags around the head of a 24-year-old drug suspect during an interrogation, leading to the suspect's death.",0.0,0.0
+367,The video sparked national outrage at that time over police brutality in Thailand. It has made fresh rounds on social media in the wake of Thitisan's death.,0.16666666666666666,0.2833333333333333
+368,"Thailand's justice ministry has launched an investigation into his death after his family expressed doubts that he killed himself. Further tests were needed to confirm that he had indeed died in a suicide, authorities said.",-0.1,0.25
+369,"Justice minister Tawee Sodsong said on Monday that all evidence related to Thitisan's death should be disclosed, and urged prison authorities to cooperate with investigators.",0.0,0.4
+370,"The family said Thitisan was previously assaulted by a prison staffer. They said officials did not allow them to see his body, which was found in his cell on Friday.",-0.16666666666666666,0.16666666666666666
+371,"But on Sunday authorities said ""no prison officer or inmate has harmed or caused [his] death"".",0.0,0.0
+372,"A previous raid on Thitisan's house revealed that he owned a dozen luxury sportscars. Authorities believe he owned at least 42, one of them a rare Lamborghini Aventador Anniversario, of which only 100 were made, priced in Thailand at 47 million baht ($1.45m; £1.05m).",-0.04166666666666667,0.6166666666666667
+373,"As a police colonel, Thitisan was paid about $1,000 a month.",0.0,0.0
+374,"There were allegations that he demanded bribes from the suspect in the viral video, Jirapong Thanapat, while suffocating him. Thitisan denied this.",-0.5,0.5
+375,Thitisan surrendered in 2021 following a manhunt.,0.0,0.1
+376,"Besides Thitisan, five other police officers were convicted of murdering Jirapong and were also sentenced to life in prison in 2022.",-0.125,0.375
+377,"""It's like he has paid off the karma he committed,"" Jirapong's father said in an interview on local media on Saturday.",0.0,0.0
+378,The Department of Corrections said they had been investigating a previous complaint filed by Thitisan's family alleging that he had been bullied and assaulted by prison officers earlier this year.,-0.15555555555555556,0.2888888888888889
+379,"Thitisan had consulted doctors over anxiety issues and trouble sleeping, the department said.",-0.2,0.2
+380,"His family visited him on the day that he died and prison staff did not notice any ""abnormalities"", it said.",0.0,0.0
+381,If you have been affected by any of the issues raised in this article you can visit the BBC Action Line for help.,0.1,0.1
+382,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+383,,0.0,0.0
+384,"A student who played a prominent role during pro-Palestinian protests at Columbia University in New York City last year has been detained by federal immigration officials, says his lawyer.",0.21212121212121213,0.5070707070707071
+385,"Mahmoud Khalil, a Palestinian refugee raised in Syria, was lead student negotiator for the encampment at the campus on the west side of Manhattan.",0.0,0.0
+386,"His attorney, Amy Greer, told the BBC that Mr Khalil was inside his university-owned home when Immigration and Customs Enforcement (ICE) agents took him into custody on Saturday.",0.0,0.0
+387,Columbia was the epicentre last year of pro-Palestinian student protests nationwide against the war in Gaza and US support for Israel.,0.0,0.06666666666666667
+388,"The BBC contacted the Department of Homeland Security, the Department of State and Columbia University on Sunday for comment.",0.0,0.0
+389,"Secretary of State Marco Rubio later posted a news story on X about the arrest of Mr Khalil, commenting: ""We will be revoking the visas and/or green cards of Hamas supporters in America so they can be deported"".",-0.08333333333333333,0.09999999999999999
+390,"Ms Greer said the ICE agents told Mr Khalil his student visa had been revoked, but she said her client is a legal permanent resident with a green card and married to an American citizen.",0.0625,0.1875
+391,"""Initially we were informed this morning that he had been transferred to an ICE facility in Elizabeth, New Jersey,"" Ms Greer said.",0.06818181818181818,0.22727272727272727
+392,"""However, when his wife – a US citizen who is eight months' pregnant and was threatened with arrest as well by the ICE agents last night – tried to visit him there today, she was told he is not detained there.""",0.09444444444444444,0.18888888888888888
+393,"She said she is unaware of Mr Khalil's current location, although an online detainee locator search on the ICE website indicates a Syrian-born individual named Mahmoud Khalil was being held at the Elizabeth Contract Detention Facility in New Jersey.",0.03409090909090909,0.43863636363636366
+394,"Ms Greer said they had heard that Mr Khalil could be transferred as far away as Louisiana, without adding details.",0.1,1.0
+395,"The lawyer said what happened to her client is a ""terrible and inexcusable – and calculated – wrong"".",-0.75,0.95
+396,"During the protests last summer, Mr Khalil said he was leading negotiations with university administrators on behalf of the student protesters.",0.0,0.06666666666666667
+397,They had set up a huge tent encampment on the university lawn in protest against the Gaza war.,0.4000000000000001,0.9
+398,Some students also seized control of an academic building for several hours before police entered the campus to arrest them. Mr Khalil was not in that group.,-0.016666666666666666,0.0
+399,"He later told the BBC he had been temporarily suspended by the university, where he is a graduate student at the School of International and Public Affairs.",0.0,0.022222222222222223
+400,"Mr Khalil's detention follows US President Donald Trump's executive order in January warning anyone involved in ""pro-jihadist protests"" and ""all Hamas sympathizers on college campuses"" would be deported.",0.0,0.0
+401,Some Jewish students at Columbia have said that rhetoric at the demonstrations at times crossed the line into antisemitism. Other Jewish students on campus have joined the pro-Palestinian protests.,-0.041666666666666664,0.125
+402,"In a thread on X, the Columbia Jewish Alumni Association said it welcomed reports suggesting Mr Khalil's green card would be revoked, describing him as ""a ringleader of the chaos"" at Columbia.",-0.1,0.15
+403,"The Trump administration last week announced it was revoking $400m (£310m) in federal grants to Columbia, accusing it of failing to fight antisemitism on campus.",0.0,0.06666666666666667
+404,"Columbia interim president Katrina Armstrong said in a campus-wide email on Friday that ""the cancellation of these funds will immediately impact research and other critical functions of the University"".",-0.0625,0.5875
+405,"The Israeli military launched its campaign against Hamas in response to an unprecedented cross-border attack into Israel on 7 October 2023, which left about 1,200 people dead and 251 taken hostage.",0.075,0.35
+406,"More than 48,000 Palestinians in Gaza have been killed in Israel's military action, according to the Hamas-run health ministry.",0.075,0.175
+407,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+408,,0.0,0.0
+409,"If a passenger dies on board a flight, cabin crew members like Jay Robert have to think fast.",0.2,0.6
+410,"""We go from service to lifesaving to mortician, dealing with dead bodies and then doing crowd control,"" the 40-year-old says. ""We're having to calculate: 'Okay, we still need to serve 300 people breakfast or dinner and we have to deal with this'.""",0.15,0.45
+411,"Jay, a cabin manager for a major European airline and a former crew member for Emirates, has more than a decade's experience working on planes. Like all cabin crew, he has been trained to deal with passenger deaths, but has only experienced one himself.",0.22708333333333333,0.48333333333333334
+412,"He says deaths on planes are ""very uncommon"" and that people are more likely to die on longer flights because of the physical toll of being immobile for a long period. Some flight crew don't experience an on-board fatality during their entire career, he says.",0.24166666666666667,0.6113095238095237
+413,"A study published in the New England Journal of Medicine in 2013 concluded that dying on a flight was ""rare"". The study, which looked at emergency calls from five airlines to a medical communications centre between January 2008 and October 2010, found that 0.3% of patients who had an in-flight medical emergency died.",0.10909090909090909,0.3386363636363636
+414,"Last month, an Australian couple spoke about their ""traumatic"" experience of sitting next to a body on a plane from Melbourne to Doha after a woman died during the flight.",0.0,0.022222222222222223
+415,"Mitchell Ring and Jennifer Colin said cabin crew placed her corpse, covered in blankets, next to Mr Ring for the remaining four hours of the flight without offering to move him. Qatar Airways said it followed appropriate guidelines and apologised for ""any inconvenience or distress this incident may have caused"".",0.25,0.25
+416,"BBC News has spoken to cabin crew and other aviation experts about how mid-air deaths are usually handled, what the rules are around storing corpses on planes and what it's like to work on a flight when someone has died.",-0.1875,0.3125
+417,"Flight crew themselves can't certify a death - this has to be done by medical personnel. Sometimes, this happens on the plane if there's someone qualified on board but more often, it is done upon landing. Most airlines follow the International Air Transport Association's (IATA) guidelines on what to do if a passenger has been presumed dead, though policies vary slightly by airline.",0.10555555555555557,0.2611111111111111
+418,"In a medical emergency, cabin crew would administer first aid and seek help from any passengers who were medical professionals, while the captain would use a telecommunications system to get instructions from emergency doctors on the ground, says Marco Chan, a former commercial pilot and a senior lecturer at Buckinghamshire New University. If necessary, the captain would divert the flight as soon as possible.",0.048295454545454544,0.3484848484848485
+419,But it's not always possible to save a passenger.,0.0,1.0
+420,"If a passenger is presumed dead, the person's eyes should be closed and they should be placed in a body bag, if available, or otherwise, covered with a blanket up to the neck, according to the IATA guidelines.",0.033333333333333326,0.3
+421,"Planes have very limited space, and it's a challenge to find a suitable spot to place the body without disturbing other passengers and compromising the plane's safety. Per the IATA, the body should be moved to a seat away from other passengers or to another area of the plane, if possible. But if the plane is full, they would usually be returned to their own seat.",0.04523809523809524,0.5873015873015873
+422,"In a narrow-body plane - those typically used for short-haul flights across the UK or within Europe - there isn't enough room on board ""to really shield a passenger from what has happened"", says Ivan Stevenson, associate professor in aviation management at Coventry University.",0.011111111111111118,0.39999999999999997
+423,"Space on these planes is ""very, very confined"", he says. ""If someone dies on board an aircraft like that, it's quite likely they will need to be placed in a seat.""",0.13,0.6950000000000001
+424,"Prof Stevenson acknowledges it's ""very unfortunate, very unpleasant"" but that crew have to put the plane's safety first.",-0.415,0.7777777777777778
+425,"Crew will ""try to give some decency to the dead body"" by placing it on an empty aisle and using curtains, blankets and dim lights, Jay says, but they might not have much choice.",-6.938893903907228e-18,0.39999999999999997
+426,"The body can't be placed in the galley in case it blocks an emergency exit. It also can't be left in the aisles in case there is an emergency evacuation, Jay says, or placed in the crew rest area on a long-haul flight.",0.0,0.0
+427,"It's also hard to physically manoeuvre a body in such a confined space, Jay says. This is what happened in the Qatar Airways case, when Mr Ring said the deceased passenger couldn't be carried down the aisle.",-0.11180555555555557,0.3683531746031746
+428,"A plane would divert to save a passenger's life in the event of a medical emergency - but it usually wouldn't if they were already presumed dead, aviation experts and cabin crew say. There's ""no point diverting"", Mr Chan says.",-0.15,0.21666666666666667
+429,"The captain would inform both the airline's operations centre and air traffic control of the passenger's death as soon as possible, and the plane would be met by local authorities, Prof Stevenson says. Either local authorities or a representative from the airline would contact the passenger's family if they were flying alone.",0.0,0.3333333333333333
+430,"Ally Murphy, who hosts the Red Eye Podcast where she interviews flight attendants, experienced one passenger death during a flight in her 14 years working as cabin crew.",0.4,0.45
+431,"A male passenger who had been travelling alone from Accra, Ghana, to London passed out in his seat. After being alerted by the passenger in the seat next to him, the crew realised he wasn't breathing normally and didn't have a pulse.",0.049999999999999996,0.24999999999999997
+432,"The crew moved the man to the galley to perform CPR. ""You're kind of trapped in a tin can that's not designed for roaming around,"" Ally recalls. But there was more space than usual in the galley because the carts were out for meal service.",0.16249999999999998,0.4125
+433,"Ally and another crew member performed CPR for 40 minutes without success. The captain then decided to divert the plane to Lyon, France, and though Ally and her colleague knew they should have strapped themselves in for landing, they continued performing CPR the whole time, she says.",0.25,0.2
+434,"""We didn't want to leave him.""",0.0,0.0
+435,"After landing, paramedics took the passenger away. He was declared dead, having suffered an abdominal aortic aneurysm, Ally recalls.",-0.2,0.4
+436,"""I held him in my arms for the final moments of his life,"" she says. ""He probably would have chosen someone else for that, but he got me.""",0.0,1.0
+437,"After the plane set off again following the diversion, the passengers were ""quite quiet and sombre,"" she says. But on arrival at their destination airport, one passenger from the flight started shouting at her because he missed his connecting flight.",0.0,0.21666666666666667
+438,"""That's the one and only time that I've ever told a passenger where to go,"" she says.",0.0,1.0
+439,Witnessing a passenger dying was a traumatic experience for Ally.,0.0,0.0
+440,"""I went home and sat in the bath and I cried. I could taste the man's breath for about a week afterwards,"" she says. ""It was a little traumatising for a while. I couldn't watch anything with CPR for a long time.""",-0.11875,0.45
+441,"Cabin crew are offered support after a passenger dies, including therapy and the option to have their rosters cleared for a few days so they can process what has happened, Jay says.",-0.2,0.1
+442,"Ally and her colleagues had a debrief with her airline after the passenger died where they were given ""reassurances that we did everything that we could"". Afterwards, she was able to schedule her shifts with a friend for a month because she felt ""a bit shell-shocked"".",0.5,0.625
+443,"Because cabin crew aren't used to passenger fatalities, it can be an especially harrowing experience when a passenger does die on board, Jay says.",0.0,1.0
+444,"""We are not doctors, we are not nurses,"" Jay says. ""While we are trained to deal with it, we don't face it every day, so we're not really immune to it.""",-0.1,0.2
+445,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+446,,0.0,0.0
+447,"Syria's interim leader has appealed for unity, as violence and revenge killings continued in areas loyal to ousted former leader Bashar al-Assad on Sunday.",0.16666666666666666,0.4166666666666667
+448,Hundreds of people have reportedly fled their homes in the coastal provinces of Latakia and Tartus - strongholds of Assad support.,0.0,0.0
+449,"Local residents have described scenes of looting and mass killings, including of children.",0.0,0.0
+450,"In Hai Al Kusour, a predominantly Alawite neighbourhood in the coastal city of Banias, residents say the streets are filled with scattered bodies, piled up and covered in blood. Men of different ages were shot dead there, witnesses said.",0.06666666666666667,0.6333333333333333
+451,"The Alawite sect is an offshoot of Shia Islam and makes up around 10% of Syria's population, which is majority Sunni Muslim. Assad belongs to the sect.",0.0,0.0
+452,"People were too scared to even look out of their windows on Friday. The internet connection is unstable, but when connected they learned of their neighbours' deaths from Facebook posts.",0.0,0.0
+453,"One man, Ayman Fares, told the BBC he was saved by his recent imprisonment. He had posted a video on his Facebook account in August 2023 criticising Assad for his corrupt rule. He was arrested soon after, and only released when Islamist-led forces freed prisoners after Assad's fall last December.",-0.125,0.5791666666666667
+454,"The fighters who raided the streets of Hai Al Kusour recognised him, so he was spared death but not the looting. They took his cars and continued to raid other houses.",-0.125,0.375
+455,"""They were strangers, I can't identify their identity or language, but they seemed to be Uzbek or Chechen,"" Mr Fares told me by phone.",0.0,0.0
+456,"""There were also some Syrians with them but not from the official security. Some civilians also were among those who carried out the killing,"" he added.",0.0,0.0
+457,"Mr Fares said he saw families killed in their own homes, and women and children covered in blood. Some families ran to their rooftops to hide but were not spared the bloodshed. ""It is horrific,"" he said.",-0.20000000000000004,0.6666666666666666
+458,"The UK-based Syrian Observatory for Human Rights documented more than 740 civilians killed in the coastal cities of Latakia, Jableh and Banias. A further 300 members of the security forces and remnants of the Assad regime are reported to have died in clashes.",0.075,0.275
+459,The BBC has not been able to independently verify the death toll.,0.25,0.375
+460,"Mr Fares said things stabilised when the Syrian army and security forces arrived in the city of Banias. They pushed other factions out of the city and provided corridors for families to access safe areas, he said.",0.1875,0.4375
+461,"Ali, another resident of Banias who asked us not to use his full name, corroborated Mr Fares' account. Ali, who lived in Kusour with his wife and 14-year-old daughter, fled his home with the assistance of security forces.",0.35,0.55
+462,"""They came to our building. We were too scared just listening to the fire and screams of people in the neighbourhood. We learned about the deaths from sporadic Facebook posts when we managed to connect. But when they came to our building, we thought we are done,"" he said.",0.0,0.0
+463,"""They were after money. They knocked on our neighbour's door taking his car, his money and all the gold or valuables he had in his home. But he was not killed.""",0.1,0.0
+464,"Ali and his family were picked up by his Sunni neighbours, who follow a different branch of Islam, and are now staying with them. ""We lived together for years, Alawites, Sunnis and Christians. We never experienced this,"" he told me.",-0.2,0.75
+465,"""The Sunnis rushed to protect Alawites from the killing that happened and now the official forces are in town to restore order.""",0.0,0.0
+466,"Ali said families were taken to a school in a neighbourhood that is predominantly Sunni, where they will be protected until members of the factions that carried out the killings are ousted from Banias.",0.0,0.0
+467,"The violence started on Thursday after Assad loyalists - who refused to give up arms - ambushed security forces around the coastal cities of Latakia and Jableh, killing dozens of them.",0.0,0.0
+468,"Ghiath Dallah, an ex-brigadier general in Assad's army, has announced a new rebellion against the current government, saying he was establishing the ""Military Council for the Liberation of Syria"".",0.02159090909090909,0.36363636363636365
+469,Some reports suggest that former security officers of the Assad regime who refused to give up arms are forming a resistance group in the mountains.,0.0,0.0
+470,Mr Fares said most of the Alawite community reject them and blame Dallah and other hardline Assad loyalists for the violence.,0.1875,0.4375
+471,"""They benefit from the bloodshed that's happening. What we need now is official security to prevail and to prosecute the killers from the factions who did the mass killing so the country restores safety,"" he said.",0.0,0.0
+472,"But others also blame interim president Ahmad al-Sharaa, saying he dismantled Syria's security, army and police establishments with no clear strategy for dealing with thousands of officers and personnel left unemployed.",-0.025000000000000005,0.19166666666666665
+473,"Some of these individuals, especially among the police, had nothing to do with the killing during Assad's regime. The new authorities also dismissed thousands of public employees from their work.",0.04545454545454545,0.5070707070707071
+474,"With 90% of Syria's population living below the poverty line and thousands left without an income, it's fertile ground for a rebellion.",0.0,0.0
+475,There is a split in views in Syria over what is happening. The wider community condemns the killing of any civilians and demonstrations have been organised in Damascus to mourn the deaths and condemn the violence.,0.0,0.0
+476,"But over the past two days, there were also calls for ""Jihad"" in different parts of Syria. Residents in Banias said that along with the factions, there were some civilians who were armed and joined forces in the killing.",-0.125,0.425
+477,"Syria's majority Sunnis have faced atrocities at the hands of the Assad regime's forces over the past 13 years. This fuelled sectarian hatred mainly towards the Alawite minority, where members of the community are affiliated with war crimes.",-0.04166666666666667,0.29166666666666663
+478,"According to human rights groups, there is evidence that Alawite security officers were involved in the killing and torture of thousands of Syrians, the majority of which are Sunni Muslims, during the Assad regime.",0.0,0.1
+479,"Those members of the army and security forces who were killed are mostly from the Sunni community and now some in the Sunni community are calling for retaliation, but the president has called for calm.",0.20000000000000004,0.4166666666666667
+480,"Sharaa, whose Islamist forces toppled Assad three months ago, must now balance providing safety for all with pursuing justice for the crimes of the Assad regime and its henchmen.",0.0,0.0
+481,"While he has authority over some of the troops who helped him to power, some factions are clearly out of his control. Those factions also include foreign fighters with a radical Islamist agenda.",-0.01249999999999999,0.25416666666666665
+482,"To lead Syria into a safe and democratic future, many argue Sharaa needs to end the presence of any foreign fighters and deliver a constitution that protects the rights of all Syrians, regardless of their background or religion.",0.21875,0.3125
+483,"While he is seen to be working towards the legal framework for such a constitution, controlling the violent factions and expelling foreign fighters will prove a major challenge.",-0.1325,0.465
+484,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+485,,0.0,0.0
+486,"Hundreds of flights have been cancelled across Germany as airport workers stage a nationwide strike over pay, posing a major disruption for air travellers.",0.0625,0.5
+487,"The industrial action, led by the trade union Verdi, began unexpectedly on Sunday at Hamburg Airport, before expanding to a nationwide strike.",0.1,0.55
+488,"Passengers at Frankfurt, Munich, Berlin and other major hubs have been urged not to travel to airports, with operations severely disrupted. Frankfurt, Germany's busiest airport, said passengers would be unable to board flights and transfer would ""almost certainly"" be affected.",-0.08705357142857142,0.48660714285714285
+489,"Verdi, which represents public sector and transport workers, is in an ongoing dispute over wages and working conditions.",0.0,0.06666666666666667
+490,"German media reports thousands of flights could be cancelled across the day, disrupting travel for more than 500,000 passengers.",0.25,0.25
+491,"The Lufthansa group, whose main hub is in Frankfurt, confirmed ""delays and extensive cancellations"" across all its airlines.",0.18888888888888888,0.5555555555555555
+492,"Meanwhile, Munich Airport warned of a ""greatly reduced flight schedule"". This includes flights by Eurowings, Austrian Airlines and Swiss Air.",0.8,0.75
+493,"Katja Bromm, spokeswoman for Hamburg Airport, where all 143 departures scheduled on Monday have already been cancelled, said Verdi was ""dishonourable"" to call a strike without notice at the start of the holiday season.",0.0,0.0
+494,"She said that Sunday's walkouts were ""excessive and unfair to tens of thousands of travellers who have nothing to do with the disputes"".",-0.375,1.0
+495,"A spokesman for Verdi accepted that the strike would affect many, but said the travel disruption was necessary to extracting a better pay offer.",0.3333333333333333,0.6666666666666666
+496,"Lars Stubbe, the union's Hamburg representative, told the BBC: ""The workers are aware that disruptions do happen, and they are uncomfortable with that, but in any case, it is the employer that caused these strikes because they haven't put a negotiable offer on the table.""",-0.125,0.625
+497,"Many of Frankfurt Airport's 1,770 scheduled flights have already been cancelled, while the majority of Munich's 820 flights are expected to be cancelled.",0.2,0.45
+498,"Hundreds more cancellations are anticipated across Stuttgart, Dusseldorf, Cologne and Berlin.",0.5,0.5
+499,"Many passengers had already checked in their luggage and were having problems getting it returned, according to public broadcaster NDR.",0.25,0.2833333333333333
+500,"ADV, which represents major German airports, said the strike had ""almost completely paralysed air traffic"".",0.05416666666666667,0.3
+501,"Verdi's demands include an 8% pay rise, or at least €350 (£294) more per month, for all workers - and three extra days of holiday, plus one additional day for union members.",0.06666666666666667,0.3333333333333333
+502,"Stubbe said that while airport wages range were above minimum wage, ranging from €13-€25 per hour, workers in different roles - particularly security staff - received less annual leave than others.",0.0,0.27499999999999997
+503,"""There have been two rounds of negotiations in which the employers have not yet offered one penny,"" he added.",0.0,0.0
+504,"""It is quite usual that we don't get any offers in the first round, but now even in the second round, the employers have basically said, 'No, we're not going to give you an offer because we don't have any money'.""",-0.05000000000000001,0.23055555555555554
+505,"BDLS, the body which sets security workers' pay, said in a statement: ""The damage caused by this strike is almost exclusively to companies that are not at the negotiating table.""",0.0,0.0
+506,"It called on the government to outlaw short-notice strikes, adding that air transport was ""essential for Germany as a business location"" which ""must not be exploited"" in collective pay disputes.",0.0,0.3
+507,"Ralph Beisel, ADV's general manager, said the strike was having an impact on European and global air traffic, leading to missed connections due to a ""domino effect"".",-0.018749999999999996,0.21875
+508,"He called for reforms to German strike laws concerning ""critical"" infrastructure.",0.0,0.4
+509,"The so-called ""warning strike"", an established tactic in German wage negotiations, concerns two separate pay disputes: one relating to airport security workers, and a broader disagreement over pay for federal and municipal government employees.",0.0,0.0
+510,"Verdi has also called for strikes in waste collection across several German cities, including Berlin, Essen and Kiel, where bins have gone unemptied since last week.",-0.05,0.016666666666666666
+511,"Pay talks for government workers are set to restart on Friday in Potsdam, while the next round of talks for airport security staff is scheduled to begin on 26 March.",-0.1,0.2
+512,"Niklas Benrath, of the VKA, which regulates pay and conditions for municipal workers, also criticised the strikes, saying Verdi's demands would cost nearly €15bn.",0.1,0.4
+513,"""With a total municipal debt of around €160bn, these demands are not financially viable,"" he added.",0.0,0.375
+514,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+515,,0.0,0.0
+516,US President Donald Trump has refused to say whether the US economy is facing a recession or price rises in the wake of his administration's changes to tariff threats against some of its closest trading partners.,0.0,0.0
+517,"Asked if he was expecting a recession this year, Trump said there was a ""period of transition"" taking place.",0.0,0.0
+518,"Commerce Secretary Howard Lutnick, however, insisted there would be no contraction in the world's largest economy, while acknowledging that the price of some goods may rise.",0.0,0.0
+519,It comes after a volatile week for US financial markets as investors grappled with uncertainty from his administration's U-turn on some key parts of its aggressive trade policies.,0.0,0.5
+520,"New tit-for-tat tariffs from China, which target some US farm products, came into effect on Monday.",0.13636363636363635,0.45454545454545453
+521,"Speaking to Fox News in an interview broadcast on Sunday but recorded on Thursday, Trump responded to a question about a recession: ""I hate to predict things like that. There is a period of transition because what we're doing is very big. We're bringing wealth back to America. That's a big thing.""",-0.2,0.28250000000000003
+522,"""It takes a little time, but I think it should be great for us,"" he added.",0.30625,0.625
+523,"Last week, the US imposed new 25% tariffs on imports from Mexico and Canada but then exempted many of those goods just two days later.",0.1590909090909091,0.2553030303030303
+524,"Trump also doubled a blanket tariff on goods from China to 20%. In response, Beijing announced retaliatory taxes on some imports of agricultural goods from the US.",0.0,0.0
+525,"From today, certain US farm products going into China - including chicken, beef, pork, wheat, and soybeans - face new tariffs of 10 to 15%.",-0.0831168831168831,0.6586580086580086
+526,"Han Shen Lin, China country director at consultancy firm The Asia Group, told the BBC's Today programme: ""You're seeing a lot of tit for tat between both sides to demonstrate that neither side will back off easily.",0.07777777777777778,0.41111111111111115
+527,"""That said China has realised it probably can't export its way to GDP growth in the way that it used to so it is focusing a lot more on the domestic economy right now.""",0.2619047619047619,0.37857142857142856
+528,"The US president has accused China, Mexico and Canada of not doing enough to end the flow of illegal drugs and migrants into the US. The three countries have rejected the accusations.",-0.25,0.5
+529,Stocks on Wall Street have fallen since Trump sparked a trade war with the US's top trading partners.,0.5,0.5
+530,Investors fear tariffs will lead to higher prices and ultimately dent growth in the world's largest economy.,0.125,0.75
+531,"Speaking on NBC on Sunday, Lutnick said: ""Foreign goods may get a little more expensive. But American goods are going to get cheaper"".",-0.0625,0.365
+532,"But when asked whether the US economy could face a recession Lutnick added: ""Absolutely not… There's going to be no recession in America.""",0.2,0.9
+533,"Former US Commerce Department official, Frank Lavin, told the BBC that he thinks the trade war is unlikely to escalate out of control.",-0.25,0.25
+534,"Tariffs will eventually ""fade a bit"" but still be an ""extra burden on the US economy,"" he said.",0.0,0.1
+535,"Rachel Winter, investment manager at Killik & Co, told the Today programme she thought the US was likely to have a period of higher inflation.",0.125,0.75
+536,"""Tariffs are theoretically inflationary and the level of tariffs that Trump is imposing, I think no doubt, will have to cause inflation somewhere down the line,"" she said.",-0.07777777777777779,0.19444444444444448
+537,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+538,,0.0,0.0
+539,"The Trump administration believes Kyiv is now ready to ""move forward"" with the US's demand for a ceasefire with Russia.",0.2,0.5
+540,So what does that mean for Ukraine? The BBC's Ukraine correspondent James Waterhouse explains.,-0.3125,0.6875
+541,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+542,,0.0,0.0
+543,"A man drawn into the world of having sex while high on illegal drugs has described how he became a ""zombie"" whose life was slowly deteriorating.",-0.21333333333333335,0.48
+544,"Chris - whose name has been changed - told the BBC he started to take part in chemsex, short for chemical sex, which helped mask ""the shame and guilt"" he said he felt growing up gay.",0.20833333333333334,0.44166666666666665
+545,"The Londoner said after becoming addicted to chemsex - which typically involves men who have sex with men using the drugs crystal meth, methedrone and GHB/GBL to enhance their sexual experience - he faced a ""wall of silence"" from helplines and others within the community.",0.09583333333333333,0.6958333333333334
+546,"Campaigners say support is ""patchy"" due to gay sex stigma and has called for this to change. The government says it is aware of the harm caused by chemsex and has issued guidance to local authorities on managing the issue.",0.13541666666666669,0.30208333333333337
+547,"Chris was initially offered drugs at a party, but it was not until a few months later that he then began to actively seek it out more and find people who were taking drugs.",0.033333333333333326,0.24
+548,"He said at first it took away ""a lot of the shame and guilt you have about growing up being gay. It's kind of quite liberating"".",0.4222222222222222,0.6055555555555556
+549,"However, that quickly changed.",0.3333333333333333,0.5
+550,"""No-one really speaks about it. Everyone is slightly ashamed about it. It's all behind closed doors. It doesn't really spill out into the real world. It's very secretive,"" he said.",0.019047619047619053,0.28095238095238095
+551,"Chris said his friends told him he was almost like a ""zombie"".",0.0,0.0
+552,"""Slowly, your life starts to deteriorate because you are missing work on a Monday. And then your work is obviously not up to standard.",-0.16666666666666666,0.15
+553,"""You can't do much until Wednesday. And then it all starts again on a Friday,"" he said.",0.2,0.2
+554,"""You have to eat, you have to sleep, you have to get on with your life but all you're really doing is looking forward to the next time you can take drugs,"" he added.",0.1,0.1
+555,"""Which is to escape the horror that is your life, the misery that is your life which you've created but, in a way, you don't seem to see that because all you want to do is take drugs.""",0.0,0.0
+556,Campaigners have said chemsex among some gay men has a stigma attached that meant many were not seeking the help they needed.,0.45833333333333337,0.5416666666666667
+557,"Ignacio Labayen De Inza, chief executive of the London-based charity Controlling Chemsex, is calling for people to start a conversation around chemsex to help change that stigma.",0.0,0.0
+558,"He said: ""Chemsex is very available but not everyone has access to reliable information.",0.52,0.52
+559,"""Not just the government but no-one is doing very much. People think there is nothing we can do because it's going to carry on happening, but people could make sure that they set boundaries and to keep safe.""",0.42,0.5496296296296296
+560,"He said there was a stigma attached to it because ""we are talking about sex, we are talking about gay sex, we are talking about drugs"".",0.4166666666666667,0.5833333333333334
+561,"Philip Hurd, a specialist adviser at Controlling Chemsex, was involved in chemsex 12 years ago and said it took a near-death overdose for him to realise he needed to stop.",0.0,0.0
+562,"He said: ""You get close to the criminal justice system, and you start doing things that are dangerous.",-0.5,0.7250000000000001
+563,"""And then I had a near-death overdose. The doctors said I was very lucky to survive, and I had to get my parents down from the country in their early eighties. That was the point I thought I can't do this; I'm going to die.""",0.1259259259259259,0.5296296296296297
+564,"Mr Hurd, who lives in London and now volunteers at Controlling Chemsex, uses his personal experience to help others.",0.0,0.3
+565,"""I think it's possible for a person with good psychology, sociology skills to support somebody coming out of chemsex but nothing can replace having been there knowing,"" he said.",0.35,0.8
+566,"An Opinium Research poll of 2,000 people for the charity found that 76% of those surveyed were not familiar with chemsex.",-0.1875,0.5
+567,"Just over a third of those who identified as gay/lesbian were not familiar with the risks of chemsex, the study also found.",-0.09375,0.25
+568,"Veronika Carruthers, a lecturer at Portsmouth University, has been looking into the current support available across the south of England and found it was still ""pretty limited"" and ""patchy"".",0.14464285714285716,0.4857142857142857
+569,"""We consider this to be a bit of a postcode lottery,"" she said.",0.0,0.0
+570,She explained that some people did not know the right services to turn to.,0.2857142857142857,0.5357142857142857
+571,"""Particularly if we look at it from a divide of drug counselling services and sexual health clinics, while sexual health clinics are preferred there is still an element of staff not having the appropriate knowledge of what chemsex actually is and in turn not being able to provide the most effective support,"" she said.",0.4083333333333333,0.565625
+572,"""In regards to drug counselling services, quite often we have recovery workers who have never actually heard of chemsex and therefore they're not able to provide any form of support and individuals often don't feel that is the most appropriate place for them.",0.1875,0.43125
+573,"""As a result people don't want to call for help or support from particular organisations over others.""",0.16666666666666666,0.3333333333333333
+574,"A Department of Health and Social Care spokesperson said in addition to issuing guidance to local authorities, it had boosted the Public Health Grant by almost £200m.",0.011111111111111112,0.044444444444444446
+575,"""Local authorities can use this to improve drug and alcohol treatment and recovery interventions, including for people involved in chemsex,"" the spokesperson said.",0.0,0.0
+576,"""We continue to work with substance misuse commissioners and sexual health commissioners to improve access to support services for those who use drugs in this context.""",0.5,0.8333333333333334
+577,"Listen to the best of BBC Radio London on Sounds and follow BBC London on Facebook, X and Instagram. Send your story ideas to hello.bbclondon@bbc.co.uk",1.0,0.3
+578,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+579,,0.0,0.0
+580,"A man has survived being run over by a train while sleeping by train tracks in Peru, local authorities said.",0.0,0.0
+581,Surveillance footage shows him lying motionless before a slow-moving cargo train makes contact with him. He gets to his feet shortly after the incident in Lima.,0.0,0.3
+582,"""He apparently was in a state of intoxication, fell asleep along the train tracks and did not feel the train coming,"" said local official General Javier Avalos.",0.03333333333333334,0.2833333333333333
+583,"Remarkably the man suffered only minor injuries to his left arm, General Avalos added, and was taken to hospital for treatment.",0.15,0.49000000000000005
+584,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+585,,0.0,0.0
+586,"A caravan found packed with explosives in outer Sydney earlier this year was part of a ""fabricated terrorism plot"" concocted by criminals, Australian police have said.",0.0,0.4166666666666667
+587,"The caravan, which was found in north-western Sydney on 19 January, contained enough explosives to produce a 40m-wide blast, along with a note displaying antisemitic messages and a list of Jewish synagogues.",0.0,0.25
+588,"Its discovery, following a spate of antisemitic attacks in Australia, triggered widespread panic.",0.0,0.1
+589,"But on Monday, Australian Federal Police (AFP) revealed that they knew ""almost immediately"" that the caravan was ""essentially a criminal con job"".",-0.2,0.275
+590,"AFP's deputy commissioner of national security, Krissy Barrett, said investigators within the New South Wales Joint Counter Terrorism Team believed that the caravan was ""part of a fabricated terrorism plot"".",0.06818181818181818,0.6022727272727273
+591,"Authorities arrived at that belief based on information they already had, the ease with which they found the caravan and the visibility of the explosives contained inside – as well as the fact that there was no detonator.",0.0,0.0
+592,"Yet police refrained from telling the public that they believed the plot was fake ""out of an abundance of caution"", as they continued to receive tip-offs about other related terror plots. They are now confident that these tip-offs were also fabricated, Ms Barrett said.",-0.020833333333333332,0.5708333333333334
+593,"The fake caravan plot involved several people with different levels of involvement, according to police. Between them, they had planned to purchase a caravan, load it with explosives and antisemitic materials and leave it in a specific location, before informing law enforcement about ""an impending terror attack against Jewish Australians"".",-0.1,0.34500000000000003
+594,"Ms Barrett described it as ""an elaborate scheme contrived by organised criminals, domestically and from offshore"", adding that the leader of the plot maintained a distance and hired alleged local criminals to carry out parts of the operation.",-0.025,0.4625
+595,"That individual is a known organised crime figure, Ms Barrett confirmed. She also added that while no arrests had been made in relation to the incident, police have a number of ongoing targets both in Australia and offshore.",0.2,0.7
+596,"""Too many criminals are accused of paying others to carry out antisemitic or terrorism incidents to get our attention or divert our resources,"" Ms Barrett said. She also noted that police believe ""the person pulling the strings wanted changes to their criminal status"".",0.04999999999999999,0.525
+597,"Criminals in these kinds of scenarios often leverage the exchange of information into law enforcement for some kind of personal gain, mostly around sentence reduction, Ms Barrett explained.",0.3666666666666667,0.5666666666666667
+598,"BBC News contacted AFP for more details on the suspected agenda of those behind the caravan hoax, but received no further comment.",0.033333333333333326,0.5666666666666667
+599,"""Regardless of the motivation of those responsible for this fake plot, this has had a chilling effect on the Jewish community,"" Ms Barrett said in her statement.",-0.2,0.6125
+600,"""What organised crime has done to the Jewish community is reprehensible, and it won't go without consequence. There was also unwarranted suspicion directed at other communities – and that is also reprehensible.""",-0.0625,0.1875
+601,"Separately, New South Wales police arrested 14 people on Monday morning as part of Strike Force Pearl: a police operation established in December 2024 to investigate antisemitic hate crimes across Sydney.",-0.33181818181818185,0.6772727272727272
+602,"The establishment of the Strike Force followed a string of antisemitic attacks in Australia in late-2024, including the vandalism of a Jewish school in Sydney's eastern suburbs and the arson of a childcare centre, which was set alight and sprayed with antisemitic messages.",0.0,0.0
+603,"Speaking to the media on Monday, police said they believed all those incidents had a ""common source"" with the caravan plot.",-0.3,0.5
+604,"""The caravan job was orchestrated by the same individual or individuals that were orchestrating the Pearl incidents,"" said NSW Police deputy commissioner David Hudson.",0.0,0.2625
+605,"Mr Hudson further noted, however, that ""none of the individuals we have arrested during Pearl have displayed any form of antisemitic ideology.""",0.0,0.5
+606,"""I think what these organised crime heads have done is play to vulnerabilities in the community,"" he later explained.",0.0,0.0
+607,"""Obviously there have been antisemitic attacks of a lower nature, and a lot of anger and angst in the community – we've seen that since October 7th, 2023... And I think these organised crime figures have taken an opportunity to play on the vulnerability of the Jewish community.""",-0.2333333333333333,0.2333333333333333
+608,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+609,,0.0,0.0
+610,Hundreds of foreign tourists have left a Unesco heritage site in southern India in the past few days after two women - an Israeli tourist and an Indian homestay owner - were gang-raped and a man was murdered.,-0.11499999999999999,0.095
+611,"The three were stargazing with two other male tourists near the town of Hampi in Karnataka state last Thursday when they were attacked by three men following an argument over money, police said.",-0.004999999999999999,0.20833333333333334
+612,All three suspects wanted in connection with the crime have been arrested.,0.0,0.0
+613,"The incident, which made global headlines, sparked fear among tourists and sent shockwaves through India.",0.0,0.0
+614,"Once the capital of the Hindu Vijayanagara kingdom, Hampi is described as an open-air museum, filled with magnificent stone ruins on the banks of Tungabhadra river. It was declared a World Heritage Site by Unesco in 1986.",0.4166666666666667,0.7000000000000001
+615,"Thursday's assault took place in Sanapur village, which is about 28km (17 miles) from the main ruins of Hampi.",0.008333333333333331,0.26666666666666666
+616,"Located on the other side of the river from Hampi, the village is ""a very isolated area"", says Ram Arasiddi, the superintendent of police of the district.",0.037500000000000006,0.3375
+617,"Many tourists, especially from Israel and Europe, who visit Hampi stay at Sanapur, which also has towering ruins and a famous Hindu temple.",0.2125,0.675
+618,"""Overall, about 100,000 or more foreign tourists visit the area every year,'' says Virupaksha V Hampi, general secretary of the Karnataka tourist guides' association.",0.10625000000000001,0.28125
+619,"However, since the news of the attack, most visitors have either cancelled bookings or left.",0.25,0.25
+620,"""Almost 90% of the tourists, most of whom are Israelis, have vacated homestays and left the area after Thursday,"" Syed Ismael, a tour guide, told BBC Hindi.",0.25,0.25
+621,Mr Ismael added that those who were staying had been advised to move in groups and avoid venturing too far out.,0.1,1.0
+622,Some said they've had to make last-minute changes to their plans.,0.0,0.0
+623,"""The incident is really scary and we are concerned about our safety. We had plans to stay here until [the Hindu festival of] Holi, but now we will be heading to Rajasthan state,"" Talia Zilber, a 21-year-old Israeli tourist, told The Indian Express newspaper.  Mr Zilber left the guest house where he was staying with his five friends on Sunday.",-0.25,0.5
+624,State minister Shivaraj Tangadagi has also cautioned people against travelling late at night in the area.,-0.3,0.6
+625,"According to one survivor's testimony, the group was stargazing near a temple when three men arrived on a motorcycle and asked where they could get petrol.",0.1,0.4
+626,They gave them directions but the men then demanded 100 rupees ($1.15; £0.90) from them.,0.0,0.0
+627,"The group initially refused as they didn't know the men, but one male tourist eventually gave them 20 rupees.",0.0,0.05
+628,The men then began arguing with the tourists which led to a confrontation.,0.0,0.0
+629,"The attackers pushed the three men into a nearby river canal before raping the women, Mr Arasiddi said on Saturday.",0.0,0.0
+630,"Two men swam to safety while the third, from Odisha state, drowned.",-0.05,0.05
+631,"Police say they have filed a case for attempted murder, robbery and rape based on the survivors' testimony.",0.0,0.0
+632,Two suspects were arrested on Saturday while a third man was arrested from neighbouring Tamil Nadu state on Sunday. He is being brought to Karnataka on Monday.,0.0,0.0
+633,Violent crimes against women continue in India despite tough laws. The 2012 gang rape and murder of a medical student by a group of men in the capital Delhi drew global attention and triggered large-scale protests.,-0.2972222222222222,0.45833333333333337
+634,"The incident prompted authorities to introduce stricter rape laws in 2013. Yet, tens of thousands of cases are reported each year. The National Crime Records Bureau reported nearly 32,000 rapes in India in 2022.",0.1,0.4
+635,"Experts believe many rapes go unreported because of social stigma, distrust of police and lack of confidence in the justice system.",0.26666666666666666,0.2833333333333333
+636,"In 2023, public outrage followed the alleged gang rape of a Brazilian-Spanish tourist in Jharkhand state. The victim and her husband shared their ordeal on Instagram, but later removed their posts.",-0.043750000000000004,0.05416666666666667
+637,"Follow BBC News India on Instagram, YouTube, X and Facebook.",0.0,0.0
+638,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+639,,0.0,0.0
+640,"Mark Carney's thumping victory in the race to succeed Justin Trudeau makes him not only leader of the Liberal Party but, by default, the next Canadian prime minister.",0.0,0.5
+641,"It's an extraordinary result for a man with very little political experience. He has never been elected as an MP, let alone served in a cabinet post.",0.0298611111111111,0.5833333333333334
+642,What Carney does have though - as Governor of the Bank of Canada during the global financial crisis and Governor of the Bank of England during the Brexit negotiations - is a long track record in global finance during times of economic turbulence.,0.030000000000000006,0.12000000000000002
+643,"And at a moment like this, Carney has been arguing, that could prove invaluable.",0.0,0.0
+644,"Politics in this country has been turned on its head as a result of what's happening south of the border, with US President Donald Trump launching a trade war and threatening to make Canada the 51st state of America.",0.0,0.0
+645,"Addressing a crowd of Liberal supporters after the result of the leadership contest was announced on Sunday evening, Carney promised to face down the threats from Trump, over the tariffs and the claims on Canada's sovereignty.",-0.15555555555555559,0.2888888888888889
+646,"""Canada never, ever, will be part of America in any way, shape or form,"" he said. ""We didn't ask for this fight, but Canadians are always ready when someone else drops the gloves.",0.2,0.5
+647,"""Americans should make no mistake"", he warned. ""In trade, as in hockey, Canada will win.""",0.8,0.4
+648,"He repeatedly referred to the US president by name and said his government would keep retaliatory tariffs in place until ""America shows us respect"".",0.0,0.0
+649,"How he will translate his strong language on the stage in Ottawa into practical solutions to those twin challenges was, however, far less clear.",0.11666666666666668,0.5458333333333334
+650,"Liberals might hope that Trudeau's exit from the stage will, in itself, help clear the air.",0.10000000000000002,0.3833333333333333
+651,"Instead of the frequent mocking of Trudeau by Trump as a ""weak"" leader, they might dare to believe that Carney will at least be able to reset the personal chemistry.",-0.01499999999999999,0.45
+652,"On the other hand, if he has to push hard in an attempt to win concessions, will he also risk incurring the wrath of a man who uses unpredictability as a political art form?",0.09583333333333334,0.3541666666666667
+653,Much of that will depend on how serious the US president is in his insistence that he wants to impose real economic pain on Canada and annex its territory.,0.09166666666666669,0.31666666666666665
+654,And that's a hard question to answer.,-0.2916666666666667,0.5416666666666666
+655,"After Carney had accepted the party's nomination, I caught up with former Canadian Prime Minister, Jean Chretien, who served for a decade from 1993 and who'd taken to the stage earlier in the evening.",0.0,0.25
+656,Did he think Trump was being serious?,-0.3333333333333333,0.6666666666666666
+657,"""You know, I don't know,"" he told me. ""Do you know? Does anyone know? I'm not a medical doctor or a psychiatrist. He changes his mind every two or three hours. So [for him] to be leader of the free world, it is preoccupying for everybody.""",0.2,0.4
+658,"While the US threat is dominating Canadian politics - Carney described the current situation as ""dark days brought on by a country we can no longer trust"" - there are still domestic political matters to focus on too, not least the prospect of a general election.",0.008333333333333337,0.31666666666666665
+659,"Once sworn in as prime minister in the coming days, Carney will have to decide whether to call a snap election. If he doesn't, the opposition parties in parliament could force one later this month through a no-confidence vote.",0.0,0.0
+660,"Before Trudeau said he was stepping down, the Liberal Party was facing electoral oblivion.",-0.15555555555555559,0.2888888888888889
+661,"After nine years in power, he'd become a liability and a lightning rod for public anger over the rising cost of living despite record levels of government spending and a ballooning national debt.",-0.35,0.13333333333333333
+662,"The stage appeared to be set for the Liberals to be swept from power by a Conservative Party under the stewardship of the young, populist leader Pierre Poilievre, who had turned lambasting Trudeau into something of a sport.",0.1,0.4
+663,"Now, not only has he lost the advantage of a deeply unpopular opponent, his political style is at risk of appearing out of step. In the current environment, even a loose alignment with the politics of Trump is a potential liability with Canadian voters.",-0.012820512820512822,0.5282051282051282
+664,"The Republican president, for his part, recently said Canada's Conservative leader was not Maga enough.",0.0,0.375
+665,"The Liberal Party is suddenly feeling a sense of rejuvenation - the gap in the opinion polls with the Conservatives, once a gulf, has narrowed dramatically. And you could feel that palpable sense of optimism in the room on Sunday evening.",0.0,0.5
+666,"Aware of the danger, Poilievre accused Liberals of ""trying to trick Canadians"" to elect them to a fourth term. But his statement also highlighted how Trump is changing the political messaging on this side of the border.",0.2625,0.3125
+667,"""It is the same Liberal team that drove up taxes, housing costs, and food prices, while Carney personally profited from moving billions of dollars and thousands of jobs out of Canada to the United States,"" Poilievre wrote.",0.0,0.2125
+668,"""We need a new Conservative government that will put Canada First - for a change.""",0.19318181818181818,0.3939393939393939
+669,Trump's election has led Canada to rally to round its flag and has propelled a former central bank governor – an archetypal member of the country's political elite – to the highest office in the land.,-0.05,0.1875
+670,"The Conservatives may still lead in the polls, but for the first time in a long time, the Liberals believe that, under Carney, they have a fighting chance again.",0.1,0.3666666666666667
+671,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+672,,0.0,0.0
+673,"Mark Carney, Canada's next prime minister, has declared his country will win the trade war that was erupted with the United States under President Donald Trump.",0.4,0.2
+674,The former Bank of England governor addressed a crowd of Liberal supporters after the result of the leadership contest was announced on Sunday evening.,0.0,0.0
+675,"In his speech, Carney pledged to maintain retaliatory tariffs ""until the Americans show us respect"".",0.0,0.0
+676,"While Donald Trump last week signed orders significantly expanding the goods exempted from his new tariffs on Canada, the White House said 62% of imports from Canada may still face tariffs.",0.1278409090909091,0.3490530303030303
+677,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+678,,0.0,0.0
+679,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+680,,0.0,0.0
+681,"A man has been charged in connection with the death of a Louisiana college student who collapsed after being repeatedly punched in the chest during a  hazing ritual, police said.",0.0,0.0
+682,"Officials said Caleb McCray, 23, a member of the Omega Psi Phi Fraternity, allegedly punched Caleb Wilson multiple times during the off-campus initiation ceremony. He was charged with criminal hazing and manslaughter.",-0.16666666666666666,0.21666666666666667
+683,"Mr Wilson was a 20-year-old college band member and mechanical engineering student at Southern University and A&M, Baton Rouge, Louisiana.",0.0,0.0
+684,"The suspect's lawyer said in a statement his client deserved due process and asked the public ""to withhold rushing to judgment until all the evidence is heard"".",-0.0625,0.22083333333333333
+685,"Hazing, which is illegal in most US states, is a tradition where people pledge their loyalty by doing something painful, humiliating or dangerous.",-0.32499999999999996,0.7
+686,"Speaking at a news conference, Baton Rouge Police Chief Thomas Morse Jr stated that Mr Wilson's death on 27 February was a ""direct result"" of the hazing incident.",0.1,0.4
+687,"According to police, a group of individuals dropped Mr Wilson off at a hospital and allegedly lied to the staff, saying he had collapsed while playing basketball. They left before authorities arrived.",-0.05,0.05
+688,But detectives later determined that information to be inaccurate.,0.0,0.0
+689,A police arrest report reviewed by US media outlets states that Mr Wilson and eight others pledging the Omega Psi Phi Fraternity were struck by Mr McCray and at least two others wearing boxing gloves.,-0.175,0.2
+690,"Mr McCray allegedly hit Mr Wilson four times in the chest, after which he collapsed, suffered a seizure, and lost control of his bodily functions, the arrest warrant affidavit said.",-0.05000000000000001,0.06666666666666667
+691,"No-one present attempted to call for emergency assistance, police said. Mr Wilson was later pronounced dead at the hospital.",-0.06666666666666667,0.13333333333333333
+692,"An autopsy found no significant trauma to his body, aside from a small bruise on the right side of his chest, according to the affidavit.",-0.0505952380952381,0.6035714285714285
+693,"It also noted that investigators found no indication that Mr McCray intended to ""cause death or great bodily harm to any of the pledges"".",0.4,0.425
+694,"Mr McCray, a member of Omega Psi Phi and reportedly a Louisiana Army National Guard member, is said to have graduated from Southern University in December 2024, according to ABC News.",0.0,0.0
+695,"East Baton Rouge District Attorney Hillar Moore said two additional people, who have not been publicly identified, will be charged with misdemeanour hazing.",0.0,0.06666666666666667
+696,The investigation is ongoing and remains active.,-0.13333333333333333,0.6
+697,Southern University System President Dennis Shields expressed deep sorrow over Mr Wilson's death.,0.0,0.2
+698,"""Words cannot express how deeply saddened we are by the loss of our student, Caleb Wilson,"" he said.",0.0,0.4
+699,Mr Shields said the campus chapter of Omega Psi Phi has been ordered to suspend all activities. Students involved in the incident could face expulsion.,0.0,0.0
+700,"Additionally, all Greek organisations at the university - a historically black college - have been barred from accepting new members for the remainder of the academic year.",-0.007575757575757576,0.22196969696969698
+701,Mr Wilson's passing has sparked widespread grief.,-0.8,0.2
+702,"The Human Jukebox Marching Band, which recently performed at the Super Bowl, honoured him in a Facebook post.",0.1111111111111111,0.33888888888888885
+703,"""A talented trumpet player, a dedicated student, and a bright soul, Caleb was a mechanical engineering major who poured his passion into both his studies and his time with the Human Jukebox. His energy, spirit, and impact on those around him will never be forgotten.""",0.365625,0.5750000000000001
+704,Hundreds of people gathered for a vigil outside Southern University's Smith-Brown Student Union.,0.0,0.025
+705,"One friend, speaking of Mr Wilson, told local media outlet WAFB: ""His light does not die with himself. It dies with all of us. We have to make sure his light lives within all of us and make sure you stand up tall like he's on your shoulders reaching for the sky.""",0.36,0.6355555555555555
+706,"The Omega Psi Phi Fraternity released a statement offering condolences and supporting law enforcement's efforts ""to seek the truth"".",0.25,0.25
+707,"Under Louisiana state law, if a person dies or is seriously injured during a hazing ritual, it can be prosecuted as a criminal offence under the Max Gruver Act.",-0.3666666666666667,0.6083333333333334
+708,Max Gruver was a Louisiana State University student who died of alcohol poisoning after hazing in 2018.,0.0,0.0
+709,"Those prosecuted can face up to a $10,000 (£7,745) fine and five years in prison. Organisations and educational institutions can also face penalties under the act.",0.33333333333333337,0.375
+710,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+711,,0.0,0.0
+712,Israel ordered all of Gaza's electricity supply to be cut off on Sunday in an effort to pressure Hamas into releasing the remaining Israeli hostages held in the territory.,0.0,0.0
+713,"Energy minister Eli Cohen's announcement came a week after Israel cut off all aid supplies to the territory, which has a population of more than two million people.",0.5,0.5
+714,"In a video statement on Sunday, Cohen said: ""We will use all the tools at our disposal to bring back the hostages and ensure that Hamas is no longer in Gaza the day after [the war].""",0.0,0.0
+715,"The decision to cut electricity is expected to primarily affect the operation of desalination plants, which are crucial for providing clean drinking water.",0.16666666666666669,0.65
+716,The government said it has not ruled out cutting off water supplies.,-0.6,0.9
+717,"In his statement, Cohen said: ""I have just signed the order to stop supplying electricity immediately to the Gaza Strip.""",0.0,0.0
+718,Israel cut off most of the mains electricity supply to Gaza earlier in the war.,0.25,0.5
+719,"Talks to prolong the fragile ceasefire, the first phase of which ended on 1 March, are expected to resume in Qatar on Monday.",0.049999999999999996,0.41111111111111115
+720,Israel wants Hamas to accept an extension of the first phase of their ceasefire.,0.225,0.21666666666666667
+721,"But Hamas wants to start negotiations on the ceasefire's second phase, which would see the release of the remaining hostages from Gaza, withdrawal of Israeli forces and a permanent end to war.",0.1,0.05
+722,Hamas is believed to be holding 24 living hostages as well as the bodies of 35 others.,0.0,0.0
+723,The militant group - which has warned that cutting off supplies to Gaza would affect the hostages as well - said on Sunday that it had wrapped up the latest round of ceasefire talks with Egyptian mediators without changes to its position and called for an immediate start of the ceasefire's second phase.,-0.075,0.55
+724,"Gaza's coastal territory and its infrastructure have been largely devastated by the war, and generators and solar panels are used for some of the power supply.",0.21428571428571427,0.42857142857142855
+725,Israel has faced criticism over cutting off supplies to Gaza.,-0.6,0.9
+726,"""Any denial of the entry of the necessities of life for civilians may amount to collective punishment,"" the United Nations human rights office said on Friday.",0.0,0.1
+727,Hamas has reiterated its support for a proposal for the establishment of an independent committee of technocrats to run Gaza until Palestinians hold presidential and legislative elections.,0.0,0.125
+728,"That committee would work under the umbrella of the Palestinian Authority (PA), which is based in the occupied West Bank.",0.0,0.0
+729,Israel has rejected the PA having any role in Gaza but has not put forward an alternative for post-war rule.,0.0,0.0
+730,"Hamas's attack in October 2023 killed around 1,200 people, mostly civilians, inside Israel and saw 251 people taken hostage. Most have been released in ceasefire agreements or other arrangements.",0.16875,0.34375
+731,"Israel's military offensive has killed more than 48,000 Palestinians in Gaza, mostly women and children, according to the Hamas-run Health Ministry, which does not say how many of the dead were militants.",0.16666666666666666,0.3333333333333333
+732,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+733,,0.0,0.0
+734,"Mark Carney's elevation to the top job in Canada is of particular significance at this moment when his country is at the frontline of a North American trade war. He becomes the ""anti-Trump"" on the US president's doorstep.",0.2222222222222222,0.27777777777777773
+735,"The former Bank of England governor chose to lean strongly into resisting Donald Trump's policies at his acceptance speech. He said the US president had brought ""dark days"" from ""a country we can no longer trust"" and that he was ""proud"" of Canadians resisting the US ""with their wallets"".",0.27083333333333337,0.5333333333333333
+736,"While on trade specifically Mr Carney vowed to keep the retaliatory tariffs ""until Americans show us respect"", it was clear that the general threats against Canadian sovereignty are equally as important in his thinking.",0.18333333333333335,0.6277777777777778
+737,"Trump has repeatedly said he will use economic power to encourage Canada to become the 51st state of the US, but Carney hit back. ""The Americans want our resources, our land, our water, our country… Canada will never be part of America in any way, shape or form,"" he said.",0.1,0.1
+738,"Behind the scenes, Carney has been encouraging a very robust response to Mr Trump. As he told me last month in his only UK interview during his campaign to succeed current Canadian Prime Minister Justin Trudeau, it was necessary to ""stand up to a bully"".",-0.03333333333333333,0.5777777777777777
+739,"He ridiculed Trump's allegations of Canada's involvement in fentanyl trade, and the US president's suggestion that Canada has ripped off the US. Canada's trade deficit is caused ""entirely"" by its exports of subsidised oil, Carney told me, and ""perhaps we should ask for that subsidy back"".",0.0,0.3125
+740,"He follows in the footsteps of former Italian Prime Minister Mario Draghi as a former top central banker who became a G7 leader. It is an otherwise rare path, but it may be good timing when Canada's nearest neighbour has suggested using economic power to take over.",0.2125,0.30625
+741,"Carney has experience in this area having dealt with a number of acute political-economic crises, such as the banking crash, the eurozone crisis, sterling's sharp slide after Brexit, and the start of the pandemic.",0.15833333333333333,0.7166666666666667
+742,"He has also regularly attended G20 meetings at leader level, including in the presence of Trump, as chair of the Financial Stability Board, an international economic body. At one such meeting, the Trump team threatened to leave the International Monetary Fund.",0.03333333333333333,0.1294871794871795
+743,"Carney believes that Trump only respects power. Of any attempt to mollify Trump, he said ""good luck with that"". He will focus further tariff retaliation on bringing inflation and interest rate rises to Canada's ""southern neighbour"".",0.175,0.525
+744,"The Canadian election is due by October, but Carney might call an earlier one. Depending on that, he is on course to host Trump in Canada at the G7 Summit in June.",-0.0625,0.4375
+745,"His rise to the top job raises the stakes for the UK. On the one hand, a more robust approach from an allied G7 leader stands in contrast to the UK's attempt to hug the White House closely.",0.3333333333333333,0.3333333333333333
+746,"On the other hand, Carney also hinted at wanting to diversify trade towards ""more reliable"" partners, which would include the UK and EU. Canada might send its subsidised energy to Europe, rather than the US.",0.1875,0.4375
+747,"The bigger strategic point is that Carney's background means a focus on international solidarity, and defence of the existing multilateral system. He says Canada can ""stand on its own feet"" but sees merit in creating a more coherent international alliance to focus the minds of Congress and tariff-sceptics in the Trump administration.",0.24285714285714285,0.4142857142857143
+748,"Canada's new leadership expects support from its Commonwealth ally, the UK. After my recent interview with him, Carney turned the camera to the portrait on the wall of the office from which he was talking to me: King Charles. The message was clear. Canada and the UK should be on the same side in this new world era.",0.07454545454545455,0.3334848484848485
+749,Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.,-0.03333333333333333,0.25
+750,,0.0,0.0

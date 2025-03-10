@@ -1,11 +1,12 @@
-from cnn_scraper import get_cnn_articles
-from bbc_scraper import get_bbc_articles
-from fox_scraper import get_fox_articles
+from cnn_scraper import cnn_homepage_articles_analysis
+from bbc_scraper import bbc_homepage_articles_analysis
+from fox_scraper import fox_homepage_articles_analysis
 
-def main():
-    get_cnn_articles()
-    get_bbc_articles()
-    get_fox_articles()
+def main(show):
+    cnn_homepage_articles_analysis(show)
+    bbc_homepage_articles_analysis(show)
+    fox_homepage_articles_analysis(show)
 
 if __name__ == "__main__":
-    main()
+    show = False
+    main(show)
