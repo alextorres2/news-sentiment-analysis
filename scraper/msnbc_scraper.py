@@ -8,7 +8,10 @@ import matplotlib.pyplot as plt
 import spacy
 import datetime
 from wordcloud import WordCloud
+import logging
 
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 nlp = spacy.load('en_core_web_sm')
 
 def get_articles_content(url: str) -> list:
@@ -30,7 +33,7 @@ def get_articles_content(url: str) -> list:
             continue
         else:
             sub_urls.add(article['href'])
-
+    logger.info(f"Read {len(sub_urls)} sub_urls from {url}")
     contents = []
     for url in sub_urls:
         sub_response = requests.get(url)
@@ -40,14 +43,16 @@ def get_articles_content(url: str) -> list:
             continue
         paragraphs = [p.get_text().replace('\n', '').strip() for p in paragraphs]
         contents.append(paragraphs)
+    logger.info(f"Of the sub_urls, {len(contents)} had valid contents")
     return contents
 
-def msnbc_homepage_articles_analysis(show: bool = False):
+def msnbc_homepage_articles_analysis(show: bool = False, save: bool = True):
     """Perform and save sentiment analysis on articles on CNN homepage website.
         Creates plots for Articles sentiment (Polarity and Subjectivity) and a WordCloud of the words in the articles
         Saves data to data/processed/cnn/TextBlob/ and data/processed/cnn/WordCloud/
     """
     url = "https://www.msnbc.com"
+    logger.info(f"Running homepage article analysis for {url}")
     contents = get_articles_content(url)
 
     # Sentiment Analysis
@@ -61,12 +66,7 @@ def msnbc_homepage_articles_analysis(show: bool = False):
             textblob_sentiment.append([text,a,b])
 
     df_textblob = pd.DataFrame(textblob_sentiment, columns =['Sentence', 'Polarity', 'Subjectivity'])
-
-    sns.displot(df_textblob["Polarity"], height= 5, aspect=1.8)
-    plt.xlabel("Article Polarity (Textblob)")
-
-    sns.displot(df_textblob["Subjectivity"], height= 5, aspect=1.8)
-    plt.xlabel("Article Subjectivity (Textblob)")
+    logger.info(f"Created textblob DataFrame for {url}")
 
     # Word Cloud
     words = []
@@ -92,32 +92,46 @@ def msnbc_homepage_articles_analysis(show: bool = False):
 
     freq_dist = nltk.FreqDist(words_new)    # Word Frequency Distribution
     df_freq_dist = pd.DataFrame(freq_dist.items(), columns=['word', 'frequency'])
-    plt.subplots(figsize=(8,5))
-    freq_dist.plot(20)
-
-    res = ' '.join([i for i in words_new if not i.isdigit()])
-
-    plt.subplots(figsize=(10,7))
-    wordcloud = WordCloud(
-        background_color='black',
-        max_words=100,
-        width=1400,
-        height=1200
-    ).generate(res)
-    plt.imshow(wordcloud)
-    plt.title('CNN Website WordCloud')
-    plt.axis('off')
+    logger.info(f"Created word frequency distribution DataFrame for {url}")
+    
     if show:
+        sns.displot(df_textblob["Polarity"], height= 5, aspect=1.8)
+        plt.xlabel("Article Polarity (Textblob)")
+        logger.info(f"Created {url} Polarity plot")
+
+        sns.displot(df_textblob["Subjectivity"], height= 5, aspect=1.8)
+        plt.xlabel("Article Subjectivity (Textblob)")
+        logger.info(f"Created {url} Subjectivity plot")
+
+        plt.subplots(figsize=(8,5))
+        freq_dist.plot(20)
+        logger.info(f"Created {url} Frequency plot")
+
+        res = ' '.join([i for i in words_new if not i.isdigit()])
+        plt.subplots(figsize=(10,7))
+        wordcloud = WordCloud(
+            background_color='black',
+            max_words=100,
+            width=1400,
+            height=1200
+        ).generate(res)
+        plt.imshow(wordcloud)
+        plt.title('CNN Website WordCloud')
+        plt.axis('off')
+        logger.info(f"Created {url} WordCloud")
+        
         plt.show()
 
-    # Write data to CSV
-    now = str(datetime.datetime.now())
-    now = now.replace(" ", "_")
-    df_textblob.to_csv(f"data/processed/cnn/TextBlob/textblob_{now}.csv")
-    df_freq_dist.to_csv(f"data/processed/cnn/WordCloud/freq_dist_{now}.csv")
+    if save:
+        # Write data to CSV
+        now = str(datetime.datetime.now())
+        now = now.replace(" ", "_")
+        df_textblob.to_csv(f"data/processed/msnbc/TextBlob/textblob_{now}.csv")
+        df_freq_dist.to_csv(f"data/processed/msnbc/WordCloud/freq_dist_{now}.csv")
+        logger.info(f"Saved data as CSV file for {url}")
 
 if __name__ == "__main__":
-    msnbc_homepage_articles_analysis(show=True)
+    msnbc_homepage_articles_analysis(show=True, save=False)
 
     # TODO list:
     #   - Save data to csv file
