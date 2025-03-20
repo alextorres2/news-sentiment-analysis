@@ -3,6 +3,7 @@ from bbc_scraper import bbc_homepage_articles_analysis
 from fox_scraper import fox_homepage_articles_analysis
 from cbs_scraper import cbs_homepage_articles_analysis
 from msnbc_scraper import msnbc_homepage_articles_analysis
+from npr_scraper import npr_homepage_articles_analysis
 
 def runner(show, save):
     """
@@ -20,6 +21,7 @@ def runner(show, save):
     fox_homepage_articles_analysis(show, save)
     cbs_homepage_articles_analysis(show, save)
     msnbc_homepage_articles_analysis(show, save)
+    npr_homepage_articles_analysis(show, save)
 
 if __name__ == "__main__":
     show = True

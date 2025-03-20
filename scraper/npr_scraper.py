@@ -137,30 +137,3 @@ def npr_homepage_articles_analysis(show: bool = False, save: bool = True):
 
 if __name__ == "__main__":
     npr_homepage_articles_analysis(show=False, save=True)
-
-    # TODO list:
-    #   - Save data to csv file
-    #       - date, average polarity, average subjectivity
-    #   - Will be able to show plot over time of sentiment changes
-    #   - Keep track of keywords
-    #       - maybe also save this to csv file
-    #       - can create a word cloude
-    #       - could have scroller to show word cloud changes over time
-    #       - tokenize words -- count each word occurrence
-    #   - Analysis of group of words, not just individual keywords
-    #   - Look through html, find links, go to links, read those articles and do analysis on those
-
-    # soup = BeautifulSoup(response.content, 'html.parser')
-
-    # # Find the news articles on the page
-    # articles = soup.find_all('a', class_='gs-c-promo-heading')
-    # data = []
-
-    # for article in articles:
-    #     title = article.get_text()
-    #     link = article['href']
-    #     if link.startswith('/'):
-    #         link = "https://www.bbc.com" + link  # Handle relative URLs
-    #     data.append({"title": title, "link": link})
-
-    # return data
