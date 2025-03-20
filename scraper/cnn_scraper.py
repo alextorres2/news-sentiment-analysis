@@ -93,10 +93,12 @@ def cnn_homepage_articles_analysis(show: bool = False, save: bool = True):
     if show:
         sns.displot(df_textblob["Polarity"], height= 5, aspect=1.8)
         plt.xlabel("Article Polarity (Textblob)")
+        plt.title('CNN Polarity')
         logger.info(f"Created {url} Polarity plot")
 
         sns.displot(df_textblob["Subjectivity"], height= 5, aspect=1.8)
         plt.xlabel("Article Subjectivity (Textblob)")
+        plt.title('CNN Subjectivity')
         logger.info(f"Created {url} Subjectivity plot")
         
         plt.subplots(figsize=(8,5))

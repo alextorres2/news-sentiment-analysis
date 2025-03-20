@@ -89,14 +89,17 @@ def fox_homepage_articles_analysis(show: bool = False, save: bool = True):
     if show:
         sns.displot(df_textblob["Polarity"], height= 5, aspect=1.8)
         plt.xlabel("Article Polarity (Textblob)")
+        plt.title('FoxNews Polarity')
         logger.info(f"Created {url} Polarity plot")
 
         sns.displot(df_textblob["Subjectivity"], height= 5, aspect=1.8)
         plt.xlabel("Article Subjectivity (Textblob)")
+        plt.title('FoxNews Subjectivity')
         logger.info(f"Created {url} Subjectivity plot")
 
         plt.subplots(figsize=(16,10))
         freq_dist.plot(20)
+        plt.title('FoxNews Word Frequency Distribution')
         logger.info(f"Created {url} Frequency plot")
 
         res=' '.join([i for i in words_new if not i.isdigit()])

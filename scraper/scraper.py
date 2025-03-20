@@ -5,6 +5,16 @@ from cbs_scraper import cbs_homepage_articles_analysis
 from msnbc_scraper import msnbc_homepage_articles_analysis
 
 def runner(show, save):
+    """
+    Main runner for analysis on 5 different News Main Webpages: CNN, BBC, FOXNEWS, CBS, and MSNBC
+
+    Args:
+        show (bool): Flag when True creates and displays the plots for each news org
+        save (bool): Flag when True saves the data to CSV
+    
+    Returns:
+        int: 
+    """
     cnn_homepage_articles_analysis(show, save)
     bbc_homepage_articles_analysis(show, save)
     fox_homepage_articles_analysis(show, save)
@@ -12,6 +22,6 @@ def runner(show, save):
     msnbc_homepage_articles_analysis(show, save)
 
 if __name__ == "__main__":
-    show = False
-    save=False
+    show = True
+    save=True
     runner(show, save)

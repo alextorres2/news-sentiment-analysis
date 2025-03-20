@@ -97,14 +97,17 @@ def msnbc_homepage_articles_analysis(show: bool = False, save: bool = True):
     if show:
         sns.displot(df_textblob["Polarity"], height= 5, aspect=1.8)
         plt.xlabel("Article Polarity (Textblob)")
+        plt.title('MSNBC Polarity')
         logger.info(f"Created {url} Polarity plot")
 
         sns.displot(df_textblob["Subjectivity"], height= 5, aspect=1.8)
-        plt.xlabel("Article Subjectivity (Textblob)")
+        plt.xlabel("MSNBC Article Subjectivity (Textblob)")
+        plt.title('MSNBC Subjectivity')
         logger.info(f"Created {url} Subjectivity plot")
 
         plt.subplots(figsize=(8,5))
         freq_dist.plot(20)
+        plt.title('MSNBC Word Frequency')
         logger.info(f"Created {url} Frequency plot")
 
         res = ' '.join([i for i in words_new if not i.isdigit()])
@@ -116,7 +119,7 @@ def msnbc_homepage_articles_analysis(show: bool = False, save: bool = True):
             height=1200
         ).generate(res)
         plt.imshow(wordcloud)
-        plt.title('CNN Website WordCloud')
+        plt.title('MSNBC Website WordCloud')
         plt.axis('off')
         logger.info(f"Created {url} WordCloud")
         
